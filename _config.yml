@@ -27,4 +27,4 @@ markdown: kramdown
 theme: minima
 
 sass:
-    sass_dir: css/_sass
+    sass_dir: _sass
