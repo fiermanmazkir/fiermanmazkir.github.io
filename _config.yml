@@ -19,8 +19,8 @@ description: > # this means to ignore newlines until "baseurl:"
   This is the official website of Frank Fierman AZA #2233
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://frankfierman.com" # the base hostname & protocol for your site
-twitter_username: jekyllrb
-github_username:  jekyll
+twitter_username: FrankFiermanAZA
+github_username:  fiermanmazkir
 
 # Build settings
 markdown: kramdown
