@@ -26,5 +26,8 @@ github_username:  fiermanmazkir
 markdown: kramdown
 theme: minima
 
+gems:
+  - jekyll-sitemap
+
 #sass:
 #    sass_dir: _sass
