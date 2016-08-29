@@ -1,8 +1,9 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: Events
+permalink: /events/
 theme: minima
+headbar: true
 ---
 
 Fall 2016 Events
@@ -17,4 +18,4 @@ This is our current calendar of events for the Fall 2016 semester
 - September 18th: **Sunday Funday**
 - October 14-16: **New Member Convention (NMC)**
 
-Return to [home page](frankfierman.com)
+Return to [home page](/))
