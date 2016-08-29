@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: Frank Fierman's Board
+permalink: /board/
 theme: minima
 ---
 ffefj
