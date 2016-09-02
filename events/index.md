@@ -3,7 +3,7 @@ layout: page
 title: Events
 permalink: /events/
 theme: minima
-headbar: true
+headbar: false
 ---
 
 Fall 2016 Events

@@ -1,10 +1,14 @@
 ---
 layout: page
-title: Frank Fierman's Board
+title: Our Board
+showtitle: Frank Fierman Executive Board
 permalink: /board/
 theme: minima
+title_diff: true
 headbar: true
 ---
+# 2016 Fall Executive Board
+
 **Godol:**  
 Drew Weiss  
 **S'ganim:**  
