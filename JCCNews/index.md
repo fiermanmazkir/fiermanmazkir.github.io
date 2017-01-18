@@ -1,3 +1,14 @@
+---
+layout: default
+title: More Email Info
+showtitle:  
+permalink: /JCCNews/
+theme: minima
+title_diff: true
+headbar: true
+---
+
+
 # Additional Information from the JCC  
 
 ## Mazon: This is Hunger Truck
