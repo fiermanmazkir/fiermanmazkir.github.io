@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Our Board
-showtitle: Frank Fierman Executive Board
+showtitle: More Information
 permalink: /board/
 theme: minima
 title_diff: true
