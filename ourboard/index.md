@@ -26,9 +26,9 @@ Jacob Schiele
 Dylan Frohman  
 **Mekasher:**  
 Jack Warshal    
-
-
-
+  
+  
+  
 ## _Past Boards:_  
 ### 2016 Fall Executive Board
 
