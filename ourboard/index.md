@@ -6,8 +6,31 @@ permalink: /board/
 theme: minima
 title_diff: true
 headbar: true
+published: true
 ---
-# 2016 Fall Executive Board
+# 2017 Spring Executive Board
+**Godol:**  
+Drew Weiss  
+**S'ganim:**  
+Joey Morris 
+Sam Brothman  
+**Moreh:**  
+Mitchell Abes  
+**Mazkir:**  
+Seth May  
+**Shaliach:**  
+Brandon Sherman  
+**Gizbor:**  
+Jacob Schiele  
+**Sopher:**  
+Dylan Frohman  
+**Mekasher:**  
+Jack Warshal    
+
+
+
+## _Past Boards:_  
+### 2016 Fall Executive Board
 
 **Godol:**  
 Drew Weiss  
@@ -25,4 +48,4 @@ Jacob Schiele
 **Sopher:**  
 Joey Morris  
 **Mekasher:**  
-Isaac Ofori-Solomon  
+Isaac Ofori-Solomon
