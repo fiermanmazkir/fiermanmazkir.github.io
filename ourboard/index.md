@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: board
 title: Our Board
 showtitle: Frank Fierman Executive Board
 permalink: /board/
@@ -23,7 +23,7 @@ Jared Rakusin
 **Gizbor:**  
 Sam Brothman  
 **Sopher:**  
-Seth May      
+Seth May 
 
 
 
