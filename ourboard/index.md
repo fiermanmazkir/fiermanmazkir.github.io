@@ -2,7 +2,7 @@
 layout: board
 title: Our Board
 showtitle: Frank Fierman Executive Board
-permalink: /board/
+#permalink: /board/
 theme: minima
 title_diff: true
 headbar: true
@@ -23,7 +23,7 @@ Jared Rakusin
 **Gizbor:**  
 Sam Brothman  
 **Sopher:**  
-Seth May 
+Seth May
 
 
 
