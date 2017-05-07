@@ -8,7 +8,7 @@ title_diff: true
 headbar: true
 published: true
 ---
-# 2017 Fall Executive Board
+<p style="text-align: center;"> # 2017 Fall Executive Board
 **Godol:**  
 Jack Warshal  
 **S'ganim:**  
@@ -23,7 +23,7 @@ Jared Rakusin
 **Gizbor:**  
 Sam Brothman  
 **Sopher:**  
-Seth May      
+Seth May    </p>  
 
 
 
