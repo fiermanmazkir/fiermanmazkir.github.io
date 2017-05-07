@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Welcome!
+title: Frank Fierman AZA
 theme: minima
 headbar: true
 ---
