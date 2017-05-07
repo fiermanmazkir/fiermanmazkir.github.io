@@ -1,5 +1,5 @@
 ---
-layout: board
+layout: page
 title: Our Board
 showtitle: Frank Fierman Executive Board
 permalink: /board/
