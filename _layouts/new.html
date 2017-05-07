@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Frank Fierman AZA</title>
+  <link href="/css/style.css" type="text/css" rel="stylesheet" />
+
+</head>
+<body>
+  <div class="nav">
+  <header>
+    <ul>
+      {% if page.cat == "home" %}
+          <li><a href="/" class = "active">Home</a></li>
+      {% else %}
+          <li><a href="/">Home</a></li>
+      {% endif %}
+
+      {% if page.cat == "board" %}
+          <li><a href="/board" class = "active">Board</a></li>
+      {% else %}
+          <li><a href="/board">Board</a></li>
+      {% endif %}
+      <li><a href="contact.asp">Contact</a></li>
+      <li><a href="about.asp">About</a></li>
+      <li style="float:right">Frank Fierman AZA #2233</li>
+    </ul>
+	</header>
+  <br><br>
+	{{content}}
+</body>
+</html>

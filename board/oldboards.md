@@ -1,5 +1,5 @@
 ---
-layout: board
+layout: new
 title: Our Board
 showtitle: Frank Fierman Executive Board
 #permalink: /board/
@@ -7,7 +7,9 @@ theme: minima
 title_diff: true
 headbar: true
 published: true
+cat: board
 ---
+
 # 2017 Fall Executive Board
 **Godol:**  
 Jack Warshal  
