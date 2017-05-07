@@ -1,0 +1,25 @@
+---
+layout: default
+---
+<style>
+.center { text-align: center; }
+</style>
+
+<article class="post">
+
+  <header class="post-header">
+
+    {% if page.title_diff == true %}
+      <h1 class="post-title">{{ page.showtitle | escape }}</h1>
+    {% else %}
+      <h1 class="post-title">{{ page.title | escape }}</h1>
+    {% endif %}
+
+
+  </header>
+
+  <div class="post-content">
+    {{ content }}
+  </div>
+
+</article>
