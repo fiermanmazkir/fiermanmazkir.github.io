@@ -33,7 +33,7 @@ Seth May
 **Godol:**  
 Drew Weiss  
 **S'ganim:**  
-Joey Morris
+Joey Morris  
 Sam Brothman  
 **Moreh:**  
 Mitchell Abes  
