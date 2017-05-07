@@ -18,8 +18,8 @@ body {
 
 .nav li {
     float: left;
-	font-family: Helvetica;
-	color: white;
+	  font-family: Helvetica;
+	  color: white;
 
 }
 li:last-child {
@@ -37,7 +37,7 @@ li:last-child {
 
 .nav a:hover, a:active {
     background-color: Red;
-	color: Gainsboro;
+	  color: Gainsboro;
 }
 .active {
     background-color: Crimson;

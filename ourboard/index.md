@@ -23,7 +23,7 @@ Jared Rakusin
 **Gizbor:**  
 Sam Brothman  
 **Sopher:**  
-Seth May
+Seth May  
 
 
 
