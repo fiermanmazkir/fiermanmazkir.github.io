@@ -43,10 +43,8 @@ p.board {
 .board a {text-decoration: none;}
 
 #top {border-radius: 20px 20px 0 0;}
-#bottom {
-border-radius: 0 0 20px 20px;
-margin: 0 0 10px 0;
-}
+#bottom {border-radius: 0 0 20px 20px;}
+#space {margin: 0 0 10px 0}
 </style>
 
 <h1>
@@ -120,3 +118,5 @@ margin: 0 0 10px 0;
 	 <p class="board">fiermansophera@gmail.com<br>
 	 </p>
 	 </div>
+
+<div id="space"> </div> 
