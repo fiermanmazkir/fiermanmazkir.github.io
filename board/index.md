@@ -24,7 +24,7 @@ h1.board {
 h2.board {
 	font-size: 19px;
 	font-family: Arial;
-}	
+}
 
 p.board {
    font-family: Arial;
@@ -41,8 +41,9 @@ p.board {
 
 2017 Fall Board
 
+
 </h1>
-<<<<<<< HEAD
+
 <div class="maintext">
 <p>  
 
@@ -57,7 +58,7 @@ p.board {
 
 </p>
 </div>
-=======
+
 
 
 <div class="board"> <a href="/board/bios/JackWarshal.html">
@@ -65,56 +66,66 @@ p.board {
 	 <h2 class="board">Godol</h2>
 	 <p class="board">godol@frankfierman.com<br>
 	 404.996.8004</p> </a></div>
-	 
-  
-<div class="board"> 
+
+
+
+
+
+<div class="board">
+         <h1 class="board">Jack Warshal</h1>
+	 <h2 class="board">Godol</h2>
+	 <p class="board">godol@frankfierman.com<br>
+	 404.996.8004</p>
+	 </div>
+
+<div class="board">
+
          <h1 class="board">Joey Morris</h1>
 	 <h2 class="board">S'gan</h2>
 	 <p class="board">sgangold@gmail.com<br>
 	 </p>
 	 </div>
 
-<div class="board"> 
+<div class="board">
          <h1 class="board">Dylan Frohman</h1>
 	 <h2 class="board">S'gan</h2>
 	 <p class="board">sganb@frankfierman.com<br>
 	 </p>
 	 </div>
-	 
-<div class="board"> 
+
+<div class="board">
          <h1 class="board">Caden Sime</h1>
 	 <h2 class="board">Moreh</h2>
 	 <p class="board">moreh@frankfierman.com<br>
 	 770.314.6164
 	 </p>
 	 </div>
-	
-<div class="board"> 
+
+<div class="board">
          <h1 class="board">Brandon Sherman</h1>
 	 <h2 class="board">Mazkir</h2>
 	 <p class="board">mazkir@frankfierman.com<br>
 	 770.371.6710
 	 </p>
 	 </div>
-	 
-<div class="board"> 
+
+<div class="board">
          <h1 class="board">Jared Rakusin</h1>
 	 <h2 class="board">Shaliach</h2>
 	 <p class="board">shaliach2233@gmail.com<br>
 	 </p>
 	 </div>
-	 
-<div class="board"> 
+
+<div class="board">
          <h1 class="board">Sam Brothman</h1>
 	 <h2 class="board">Gizbor</h2>
 	 <p class="board">ffiermangizbor@gmail.com<br>
 	 </p>
 	 </div>
-	 
-<div class="board"> 
+
+<div class="board">
          <h1 class="board">Seth May</h1>
 	 <h2 class="board">Sopher</h2>
 	 <p class="board">fiermansophera@gmail.com<br>
 	 </p>
 	 </div>
->>>>>>> origin/master

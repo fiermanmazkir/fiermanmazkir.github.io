@@ -51,10 +51,8 @@ li:last-child {
     padding: 17px 16px;
     text-align: center;
     text-decoration: none;
-<<<<<<< HEAD
 	  border-right: 1px solid #bbb;
-=======
->>>>>>> origin/master
+
 
 }
 
@@ -92,4 +90,3 @@ p {
 .welcome {
 	font-size: 16;
 }
-
