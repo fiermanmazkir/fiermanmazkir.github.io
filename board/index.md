@@ -59,6 +59,7 @@ h2.board {
          <h1 class="board">Caden Sime</h1>
 	 <h2 class="board">Moreh</h2>
 	 <p class="board">ffiermanmoreh@gmail.com<br>
+	 770.314.6164
 	 </p>
 	 </div>
 	
