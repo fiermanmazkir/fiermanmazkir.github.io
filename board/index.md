@@ -34,17 +34,17 @@ h2.board {
 
 </h1>
 
-<div class="godol-board"> 
-         <h1 class="godol-board">Jack Warshal</h1>
-	 <h2 class="godol-board">Godol</h2>
-	 <p class="godol-board">Godol@FrankFierman.com<br>
+<div class="board"> 
+         <h1 class="board">Jack Warshal</h1>
+	 <h2 class="board">Godol</h2>
+	 <p class="board">Godol@FrankFierman.com<br>
 	 404.996.8004</p>
 	 </div>
 
-<div class="sgana-board"> 
-         <h1 class="sgana-board">Joey Morris</h1>
-	 <h2 class="sgana-board">S'gan</h2>
-	 <p class="sgana-board">sgangold@gmail.com<br>
+<div class="board"> 
+         <h1 class="board">Joey Morris</h1>
+	 <h2 class="board">S'gan</h2>
+	 <p class="board">sgangold@gmail.com<br>
 	 </p>
 	 </div>
 
