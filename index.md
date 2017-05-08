@@ -15,11 +15,11 @@ h1.welcome {
   font-family: Pacifico;
   font-size: 50px;
   color: red;
-  animation-name: header1;
+ /* animation-name: header1;
   animation-duration: 9s;
-  animation-iteration-count: infinite;
+  animation-iteration-count: infinite;*/
 }
-@keyframes header1 {
+/*@keyframes header1 {
     0%   {color:red;}
     12.5%   {color:orange;}
     25%  {color:yellow;}
@@ -28,7 +28,7 @@ h1.welcome {
     62.5%  {color:blue;}
     75%   {color:purple;}
     87.5%   {color:magenta;}
-    100% {color:red;}
+    100% {color:red;}*/
 
 body {
  background-image: url("/images/2233.png");
