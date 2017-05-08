@@ -8,13 +8,14 @@ cat: board
 	background: Crimson;
 	float: center;
 	clear: both;
-   max-width: 75%;
    color: White;
 	text-align: center;
 }
 
 div.board {
+   margin: auto;
    border: 2px solid Black;
+   max-width: 100%;
 }
 h1.board {
 	font-size: 20px;
