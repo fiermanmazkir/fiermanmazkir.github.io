@@ -31,6 +31,10 @@ p.board {
    font-size: 16;
 }
 
+  $("#jack").change(function()
+  {
+   document.location.href = '/board/bios/JackWarshal.html';
+  });
 </style>
 
 <h1>
@@ -62,10 +66,6 @@ p.board {
 	 404.996.8004</p>
 	 </div>
 	 
-  $("#jack").change(function()
-  {
-   document.location.href = 'indextest.html';
-  });
   
 <div class="board"> 
          <h1 class="board">Joey Morris</h1>
