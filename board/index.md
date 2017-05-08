@@ -79,7 +79,7 @@ p.board {
 <div class="board"> 
          <h1 class="board">Caden Sime</h1>
 	 <h2 class="board">Moreh</h2>
-	 <p class="board">ffiermanmoreh@gmail.com<br>
+	 <p class="board">moreh@frankfierman.com<br>
 	 770.314.6164
 	 </p>
 	 </div>
