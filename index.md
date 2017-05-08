@@ -19,6 +19,9 @@ h1.welcome {
   font-size: 32;
 }
 
+body {
+ background-image: url("/images/2233.png");
+
 </style>
 
 <h1 class="welcome">Frank Fierman AZA </h1>
