@@ -18,7 +18,7 @@ li {
 	text-align: center;
 }
 
-li.godol-board {
+div.godol-board {
    margin: auto;
    border: 2px solid Black;
 }
@@ -41,7 +41,7 @@ h2.godol-board {
 	text-align: center;
 }
 
-li.sgana-board {
+div.sgana-board {
    margin: auto;
    border: 2px solid Black;
 }
@@ -61,22 +61,19 @@ h2.sgana-board {
 
 </h1>
 
-<ul>
-<li class="godol-board"> 
+<div class="godol-board"> 
          <h1 class="godol-board">Jack Warshal</h1>
 	 <h2 class="godol-board">Godol</h2>
 	 <p class="godol-board">Godol@FrankFierman.com<br>
 	 XXX.XXX.XXXX</p>
-	 </li>
+	 </div>
 
-<li class="sgana-board"> 
+<div class="sgana-board"> 
          <h1 class="sgana-board">Joey Morris</h1>
 	 <h2 class="sgana-board">S'gan</h2>
 	 <p class="sgana-board">sgangold@gmail.com<br>
 	 XXX.XXX.XXXX</p>
-	 </li>
-
-</ul>
+	 </div>
 
 <p>
          S'gan: Dylan Frohman<br>
