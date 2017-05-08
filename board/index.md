@@ -3,7 +3,6 @@ layout: new
 cat: board
 ---
 <style>
-<!-- Godol -->
 .godol-board {
 	background: Crimson;
 	float: center;
@@ -24,7 +23,7 @@ h1.godol-board {
 h2.godol-board {
 	font-size: 17px;
 	font-family: Arial;
-	
+}	
 <!-- S'gan A -->
 .sgana-board {
 	background: Crimson;
