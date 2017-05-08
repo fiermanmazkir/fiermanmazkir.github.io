@@ -4,7 +4,7 @@ cat: board
 ---
 <style>
 body {
-background: DarkGrey;
+background: Gainsboro;
 }
 
 .board {
