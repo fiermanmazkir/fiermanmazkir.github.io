@@ -31,10 +31,14 @@ p.board {
    font-size: 16;
 }
 
-  $("#jack").change(function()
-  {
-   document.location.href = '/board/bios/JackWarshal.html';
-  });
+.maintext a {
+  color: Gray;
+  text-decoration: none;
+}
+
+.board a {
+text-decoration: none;
+}
 </style>
 
 <h1>
