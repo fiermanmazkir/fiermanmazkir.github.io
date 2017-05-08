@@ -8,7 +8,7 @@ cat: "home"
 	padding: 3px;
 	border: 2px solid Black;
 	float: left;
-	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+	box-shadow: 2px 4px 8px 0 rgba(0, 0, 0, 0.2), 3px 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
 </style>
 
