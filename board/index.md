@@ -2,7 +2,7 @@
 layout: new
 cat: board
 ---
-<script>
+<style>
 .godol-board {
 	background: Crimson;
 	float: center;
@@ -24,7 +24,7 @@ h2.godol-board {
 	font-size: 17px;
 	font-family: Arial;
 }
-</script>
+</style>
 <h1>
 
 2017 Fall Board
