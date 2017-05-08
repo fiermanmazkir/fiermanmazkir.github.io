@@ -74,7 +74,7 @@ p {
 	float: left;
 }
 
-godol-board {
+.godol-board {
 	background: Crimson;
 	float: center;
 	clear: both;
