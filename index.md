@@ -21,12 +21,6 @@ h1.welcome {
   color: red;
 }
 
-h1.welcome:hover {
-text-shadow: 2px 2px 5px
-animation-name: header1;
-  animation-duration: 9s;
-  animation-iteration-count: infinite;
-}
 @keyframes header1 {
     0%   {color:red;}
     12.5%   {color:orange;}
