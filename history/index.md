@@ -11,8 +11,8 @@ Frank Fierman History<br>
 <p>  
 Created in 1980, Frank Fierman AZA #2233 is the oldest and longest running chapter in Atlanta, Georgia.<br>
 <br>
-Mascots: Colonel Sanders <br>
-<img src="/history/fiermanks1.jpeg" height="30%" width="30%" /> <br> Captain Planet<br>
+Mascots: Colonel Sanders and Caption Planet <br>
+<img src="/history/fiermanks1.jpeg" height="30%" width="30%" /> <br>
 <br>
 Henry Monskey Awards:<br>
 - 1993-1994<br>
