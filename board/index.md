@@ -8,7 +8,7 @@ cat: board
 	background: Crimson;
 	float: center;
 	clear: both;
-   width: 250px;
+   width: 500px;
    color: White;
 	text-align: center;
 }
