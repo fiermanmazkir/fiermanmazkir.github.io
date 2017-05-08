@@ -3,7 +3,8 @@
 <head>
   <title>Frank Fierman AZA</title>
   <link href="/css/style.css" type="text/css" rel="stylesheet" />
-
+  <!-- Fonts -->
+  <link href="https://fonts.googleapis.com/css?family=Pacifico" rel="stylesheet">
 </head>
 <body>
   <div class="nav">
@@ -12,7 +13,7 @@
       {% if page.cat == "home" %}
           <li><a href="/" class = "active">Home</a></li>
       {% else %}
-          <li><a href="/">Home</a></li>
+	    <li><a href="/">Home</a></li>
       {% endif %}
 
       {% if page.cat == "board" %}
@@ -36,8 +37,18 @@
       <li style="float:right">Frank Fierman AZA #2233</li>
     </ul>
 	</header>
+<<<<<<< HEAD
 </div>
   <br><br>
+=======
+	</div>
+	<br><br><br>
+	  
+>>>>>>> origin/master
 	{{content}}
 </body>
+	
+<!-- vvv Mail List Popup vvv -->
+<div> <script type="text/javascript" src="//s3.amazonaws.com/downloads.mailchimp.com/js/signup-forms/popup/embed.js" data-dojo-config="usePlainJson: true, isDebug: false"></script>
+<script type="text/javascript">require(["mojo/signup-forms/Loader"], function(L) { L.start({"baseUrl":"mc.us11.list-manage.com","uuid":"3441a39e6ab9562066516b04c","lid":"e1aaf1338f"}) })</script> </div>
 </html>

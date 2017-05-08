@@ -9,13 +9,13 @@ body {
 .nav ul {
     list-style-type: none;
     margin: 0;
-    padding: 14px 0px;
+    padding: 16px 0px;
     overflow: hidden;
     background-color: #333;
-	  border-top: 1px solid white;
 	  position: fixed;
     top: 0;
     width: 100%;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
 
 .nav li {
@@ -48,16 +48,19 @@ li:last-child {
 
 .nav a:link, a:visited {
     color: White;
-    padding: 14px 16px;
+    padding: 17px 16px;
     text-align: center;
     text-decoration: none;
+<<<<<<< HEAD
 	  border-right: 1px solid #bbb;
+=======
+>>>>>>> origin/master
 
 }
 
 .nav a:hover, a:active {
-    background-color: Red;
-	  color: Gainsboro;
+    background-color: Black;
+	  color: White;
 }
 .active {
     background-color: Crimson;
@@ -89,3 +92,4 @@ p {
 .welcome {
 	font-size: 16;
 }
+
