@@ -8,7 +8,7 @@ cat: home
 	padding: 3px;
 	/*border: 2px solid Black;*/
 	float: right;
-	box-shadow: 4px 4px 8px 0 rgba(0, 0, 0, 0.2), 6px 6px 20px 0 rgba(0, 0, 0, 0.19);
+	box-shadow: -4px 4px 8px 0 rgba(0, 0, 0, 0.2), -6px 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
 
 p.welcome {
