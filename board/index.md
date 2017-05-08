@@ -8,9 +8,10 @@ cat: board
 2017 Fall Board
 
 </h1>
+<div class="maintext">
 <p>  
 
-         Godol: Jack Warshal<br>
+         Godol: <a href="bios/JackWarshal.html">Jack Warshal</a><br>
 	       S'gan: Joey Morris<br>
          S'gan: Dylan Frohman<br>
          Moreh: Caden Sime<br>
@@ -20,3 +21,4 @@ cat: board
          Sopher: Seth May
 
 </p>
+</div>

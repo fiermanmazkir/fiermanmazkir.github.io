@@ -4,6 +4,8 @@ body {
   padding: 0;
 }
 
+
+
 .nav ul {
     list-style-type: none;
     margin: 0;
@@ -24,6 +26,22 @@ body {
 
 
 }
+
+.maintext ul {
+    list-style-type: disc;
+    list-style-position: inside;
+    text-align: center;
+    padding-left: 0;
+    color: black;
+
+}
+
+.maintext li{
+    font-family: Helvetica;
+
+}
+
+
 li:last-child {
 	padding-right: 10px;
 }
@@ -33,7 +51,7 @@ li:last-child {
     padding: 14px 16px;
     text-align: center;
     text-decoration: none;
-	border-right: 1px solid #bbb;
+	  border-right: 1px solid #bbb;
 
 }
 
@@ -61,6 +79,11 @@ p {
 	color: Gray;
 	font-family: Helvetica;
 	text-align: center;
+}
+
+.maintext a {
+  color: Gray;
+  text-decoration: none;
 }
 
 .welcome {
