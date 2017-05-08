@@ -16,7 +16,7 @@ p.welcome {
 }
 h1.welcome {
   font-family: Pacifico;
-  font-size: 32;
+  font-size: 50;
 }
 
 body {
