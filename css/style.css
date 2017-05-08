@@ -86,3 +86,10 @@ h1.godol-board {
 	font-size: 20px;
 	color: White;
 }
+
+h2.godol-board {
+	font-size: 18px;
+	font-family: Arial;
+	text-align: center;
+	color: White;
+}
