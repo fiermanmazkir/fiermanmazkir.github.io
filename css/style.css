@@ -81,10 +81,12 @@ p {
    width: 250px;
    color: White;
 	text-align: center;
-   margin: auto;
-   border: 2px solid Black;
 }
 
+div.godol-board {
+   margin: auto;
+   border: 1px solid Black;
+}
 h1.godol-board {
 	font-size: 20px;
 }
