@@ -70,4 +70,5 @@ p {
 .twitter {
 	margin: 5px 7px;
 	border: 2px solid Black;
+	display: inline;
 }
