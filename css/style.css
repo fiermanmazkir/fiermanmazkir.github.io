@@ -66,3 +66,7 @@ p {
 .welcome {
 	font-size: 16;
 }
+
+.twitter-timeline {
+	padding: 5px 7px;
+}
