@@ -3,6 +3,11 @@ layout: new
 cat: board
 ---
 <style>
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
 .godol-board {
 	background: Crimson;
 	float: center;
