@@ -3,6 +3,9 @@ layout: new
 cat: board
 ---
 <style>
+body {
+background: DarkGrey;
+}
 
 .board {
 	background: Crimson;
