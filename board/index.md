@@ -72,7 +72,7 @@ h2.sgana-board {
          <h1 class="sgana-board">Joey Morris</h1>
 	 <h2 class="sgana-board">S'gan</h2>
 	 <p class="sgana-board">sgangold@gmail.com<br>
-	 XXX.XXX.XXXX</p>
+	 404.996.8004</p>
 	 </div>
 
 <p>
