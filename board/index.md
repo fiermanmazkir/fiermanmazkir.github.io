@@ -16,6 +16,7 @@ div.board {
    margin: auto;
    border: 2px solid Black;
    max-width: 75%;
+   min-width: 500px;
 }
 h1.board {
 	font-size: 20px;
