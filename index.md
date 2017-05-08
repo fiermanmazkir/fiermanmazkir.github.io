@@ -10,10 +10,18 @@ cat: home
 	float: right;
 	box-shadow: 4px 4px 8px 0 rgba(0, 0, 0, 0.2), 6px 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
+
+p.welcome {
+	font-size: 16;
+}
+h1.welcome {
+  font-family: Pacifico;
+}
+
 </style>
 
-<h1>Frank Fierman AZA </h1>
-<div class="welcome"><p>
+<h1 class="welcome">Frank Fierman AZA </h1>
+<div><p class="welcome">
 Welcome to the Website of Frank Fierman!
 </p> </div>
 
