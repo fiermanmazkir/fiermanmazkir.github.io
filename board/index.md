@@ -44,16 +44,49 @@ h2.board {
 <div class="board"> 
          <h1 class="board">Joey Morris</h1>
 	 <h2 class="board">S'gan</h2>
-	 <p class="board">sgangold@gmail.com<br>
+	 <p class="board">SganGold@gmail.com<br>
 	 </p>
 	 </div>
 
-<p>
-         S'gan: Dylan Frohman<br>
-         Moreh: Caden Sime<br>
-         Mazkir: Brandon Sherman<br>
-         Shaliach: Jared Rakusin<br>
-         Gizbor: Sam Brothman<br>
-         Sopher: Seth May
-
-</p>
+<div class="board"> 
+         <h1 class="board">Dylan Frohman</h1>
+	 <h2 class="board">S'gan</h2>
+	 <p class="board">SganB@FrankFierman.com<br>
+	 </p>
+	 </div>
+	 
+<div class="board"> 
+         <h1 class="board">Caden Sime</h1>
+	 <h2 class="board">Moreh</h2>
+	 <p class="board">FFiermanMoreh@gmail.com<br>
+	 </p>
+	 </div>
+	
+<div class="board"> 
+         <h1 class="board">Brandon Sherman</h1>
+	 <h2 class="board">Mazkir</h2>
+	 <p class="board">Mazkir@FrankFierman.com<br>
+	 770.371.6710
+	 </p>
+	 </div>
+	 
+<div class="board"> 
+         <h1 class="board">Jared Rakusin</h1>
+	 <h2 class="board">Shaliach</h2>
+	 <p class="board">Shaliach2233@gmail.com<br>
+	 </p>
+	 </div>
+	 
+<div class="board"> 
+         <h1 class="board">Sam Brothman</h1>
+	 <h2 class="board">Gizbor</h2>
+	 <p class="board">FFiermanGizbor@gmail.com<br>
+	 </p>
+	 </div>
+	 
+<div class="board"> 
+         <h1 class="board">Seth May</h1>
+	 <h2 class="board">Sopher</h2>
+	 <p class="board">FiermanSopherA@gmail.com<br>
+	 </p>
+	 </div>
