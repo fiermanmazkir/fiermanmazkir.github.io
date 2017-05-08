@@ -6,7 +6,6 @@ cat: board
 
 .board {
 	background: Crimson;
-	float: center;
 	clear: both;
    max-width: 75%;
    color: White;
@@ -16,7 +15,6 @@ cat: board
 div.board {
    margin: auto;
    border: 2px solid Black;
-   padding: auto;
 }
 h1.board {
 	font-size: 20px;
