@@ -40,10 +40,10 @@ p.board {
   text-decoration: none;
 }
 
-.board a {
-text-decoration: none;
-}
+.board a {text-decoration: none;}
 
+#top {border-radius: 20px 20px 0 0;}
+#bottom {border-radius: 0 0 20px 20px;}
 </style>
 
 <h1>
@@ -60,7 +60,7 @@ text-decoration: none;
 
 
 
-<div class="board"> <a href="/board/bios/JackWarshal.html">
+<div class="board" id="top"> <a href="/board/bios/JackWarshal.html">
          <h1 class="board">Jack Warshal</h1>
 	 <h2 class="board">Godol</h2>
 	 <p class="board">godol@frankfierman.com<br>
@@ -111,7 +111,7 @@ text-decoration: none;
 	 </p>
 	 </div>
 
-<div class="board">
+<div class="board" id="bottom">
          <h1 class="board">Seth May</h1>
 	 <h2 class="board">Sopher</h2>
 	 <p class="board">fiermansophera@gmail.com<br>
