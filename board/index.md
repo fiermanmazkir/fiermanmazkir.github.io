@@ -2,7 +2,9 @@
 layout: new
 cat: board
 ---
+
 <style>
+
 .board {
 	background: Crimson;
 	float: center;
@@ -18,6 +20,7 @@ div.board {
    max-width: 75%;
    min-width: 500px;
 }
+
 h1.board {
 	font-size: 22px;
 }
@@ -40,6 +43,7 @@ p.board {
 .board a {
 text-decoration: none;
 }
+
 </style>
 
 <h1>
