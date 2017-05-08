@@ -3,6 +3,10 @@ layout: new
 cat: "home"
 ---
 <style>
+body {
+background: Gainsboro;
+}
+
 .twitter {
 	margin: 5px 10px;
 	padding: 3px;
