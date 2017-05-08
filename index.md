@@ -13,7 +13,7 @@ cat: home
 
 h1.welcome {
   font-family: Pacifico;
-  font-size: 32px;
+  font-size: 50px;
   color: red;
   animation-name: header1;
   animation-duration: 9s;
