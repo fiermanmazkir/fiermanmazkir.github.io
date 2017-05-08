@@ -17,7 +17,7 @@ cat: board
 div.board {
    margin: auto;
    border: 2px solid Black;
-   max-width: 800px;
+   max-width: 700px;
    min-width: 500px;
 }
 
