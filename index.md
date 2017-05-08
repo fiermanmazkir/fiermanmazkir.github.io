@@ -14,7 +14,7 @@ cat: home
 h1.welcome {
   font-family: Pacifico;
   font-size: 50px;
-  color: red;
+  color: linear-gradient(to right, red, orange, yellow, limegreen, green, blue, purple, magenta, red);
  /* animation-name: header1;
   animation-duration: 9s;
   animation-iteration-count: infinite;*/
