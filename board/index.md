@@ -5,7 +5,6 @@ cat: board
 <style>
 ul {
     list-style-type: none;
-    padding: 0;
 }
 
 .godol-board {
@@ -67,7 +66,7 @@ h2.sgana-board {
 	 <p class="godol-board">Godol@FrankFierman.com<br>
 	 XXX.XXX.XXXX</p>
 	 </div></li>
-
+<br>
 <li><div class="sgana-board"> 
          <h1 class="sgana-board">Joey Morris</h1>
 	 <h2 class="sgana-board">S'gan</h2>
