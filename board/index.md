@@ -3,13 +3,8 @@ layout: new
 cat: board
 ---
 <style>
-ul {
-    list-style-type: none;
-}
-li {
-   display: inline;
-}
-.godol-board {
+
+.board {
 	background: Crimson;
 	float: center;
 	clear: both;
@@ -18,41 +13,19 @@ li {
 	text-align: center;
 }
 
-div.godol-board {
+div.board {
    margin: auto;
    border: 2px solid Black;
 }
-h1.godol-board {
+h1.board {
 	font-size: 20px;
 }
 
-h2.godol-board {
+h2.board {
 	font-size: 17px;
 	font-family: Arial;
 }	
 
-
-.sgana-board {
-	background: Crimson;
-	float: center;
-	clear: both;
-   width: 250px;
-   color: White;
-	text-align: center;
-}
-
-div.sgana-board {
-   margin: auto;
-   border: 2px solid Black;
-}
-h1.sgana-board {
-	font-size: 20px;
-}
-
-h2.sgana-board {
-	font-size: 17px;
-	font-family: Arial;
-}
 </style>
 
 <h1>
