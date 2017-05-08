@@ -12,7 +12,7 @@ cat: board
 <div class="godol-board"> 
          <h1 class="godol-board">Jack Warshal</h1>
 	 <h2 class="godol-board">Godol</h2>
-	 <p class="godol-board">Godol@frankfierman.com<br>
+	 <p class="godol-board">Godol@FrankFierman.com<br>
 	 XXX.XXX.XXXX</p>
 </div>
 <p>
