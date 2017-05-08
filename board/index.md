@@ -60,11 +60,11 @@ p.board {
 =======
 
 
-<div class="board">
+<div class="board"> <a href="/board/bios/JackWarshal.html">
          <h1 class="board">Jack Warshal</h1>
 	 <h2 class="board">Godol</h2>
 	 <p class="board">godol@frankfierman.com<br>
-	 404.996.8004</p> </div>
+	 404.996.8004</p> </a></div>
 	 
   
 <div class="board"> 
