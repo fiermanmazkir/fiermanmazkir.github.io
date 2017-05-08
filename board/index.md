@@ -3,10 +3,6 @@ layout: new
 cat: board
 ---
 <style>
-body {
-background: Gainsboro;
-}
-
 .board {
 	background: Crimson;
 	float: center;
