@@ -16,6 +16,7 @@ a.board {
    border: 2px solid Black;
    max-width: 75%;
    min-width: 500px;
+   display:block;
 }
 h1.board {
 	font-size: 22px;
