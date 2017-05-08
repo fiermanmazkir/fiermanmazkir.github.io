@@ -2,7 +2,29 @@
 layout: new
 cat: board
 ---
+<script>
+.godol-board {
+	background: Crimson;
+	float: center;
+	clear: both;
+   width: 250px;
+   color: White;
+	text-align: center;
+}
 
+div.godol-board {
+   margin: auto;
+   border: 2px solid Black;
+}
+h1.godol-board {
+	font-size: 20px;
+}
+
+h2.godol-board {
+	font-size: 17px;
+	font-family: Arial;
+}
+</script>
 <h1>
 
 2017 Fall Board
