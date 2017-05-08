@@ -21,16 +21,10 @@ h1.welcome {
   color: red;
 }
 
-@keyframes header1 {
-    0%   {color:red;}
-    12.5%   {color:orange;}
-    25%  {color:yellow;}
-    37.5%   {color:limegreen;}
-    50%  {color:green;}
-    62.5%  {color:blue;}
-    75%   {color:purple;}
-    87.5%   {color:magenta;}
-    100% {color:red;}
+#img {
+float: left;
+margin: auto;
+}
 
 /*body {
  background-image: url("/2233.png");*/
