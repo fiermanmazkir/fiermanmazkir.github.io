@@ -7,10 +7,10 @@ cat: board
 	background: Crimson;
 	float: center;
 	clear: both;
-   color: White;
+   	color: White;
 	text-align: center;
 }
-</style>
+
 
 div.board {
    margin: auto;
