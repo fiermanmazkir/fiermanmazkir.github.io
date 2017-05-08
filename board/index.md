@@ -6,7 +6,9 @@ cat: board
 ul {
     list-style-type: none;
 }
-
+li {
+   display: inline;
+}
 .godol-board {
 	background: Crimson;
 	float: center;
