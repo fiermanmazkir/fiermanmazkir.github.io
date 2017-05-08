@@ -37,8 +37,8 @@ li:last-child {
 }
 
 .nav a:hover, a:active {
-    background-color: Gainsboro;
-	  color: Crimson;
+    background-color: Black;
+	  color: White;
 }
 .active {
     background-color: Crimson;
