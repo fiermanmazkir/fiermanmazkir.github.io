@@ -12,7 +12,7 @@ Frank Fierman History<br>
 Created in 1980, Frank Fierman AZA #2233 is the oldest and longest running chapter in Atlanta, Georgia.<br>
 <br>
 Mascots: Kernal Sanders <br>
-<img src="/history/fiermanks1.jpeg" height="50%" width="50%" /> <br>
+<img src="/history/fiermanks1.jpeg" height="30%" width="30%" /> <br>
 Former Mascots: Captain Planet<br>
 <br>
 Henry Monskey Awards:<br>
