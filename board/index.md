@@ -6,6 +6,7 @@ cat: board
 
 .board {
 	background: Crimson;
+	float: center;
 	clear: both;
    max-width: 75%;
    color: White;
@@ -13,7 +14,6 @@ cat: board
 }
 
 div.board {
-   margin: auto;
    border: 2px solid Black;
 }
 h1.board {
