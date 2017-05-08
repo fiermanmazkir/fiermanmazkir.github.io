@@ -55,19 +55,22 @@ h2.sgana-board {
 
 </h1>
 
-<div class="godol-board"> 
+<ul>
+<li><div class="godol-board"> 
          <h1 class="godol-board">Jack Warshal</h1>
 	 <h2 class="godol-board">Godol</h2>
 	 <p class="godol-board">Godol@FrankFierman.com<br>
 	 XXX.XXX.XXXX</p>
-</div>
+	 </div></li>
 
-<div class="sgana-board"> 
+<li><div class="sgana-board"> 
          <h1 class="sgana-board">Joey Morris</h1>
 	 <h2 class="sgana-board">S'gan</h2>
 	 <p class="sgana-board">sgangold@gmail.com<br>
 	 XXX.XXX.XXXX</p>
-</div>
+	 </div> </li>
+
+</ul>
 
 <p>
          S'gan: Dylan Frohman<br>
