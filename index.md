@@ -23,6 +23,10 @@ h1.welcome {
   animation-duration: 9s;
   animation-iteration-count: infinite;*/
 }
+
+h1.welcome:hover {
+
+}
 /*@keyframes header1 {
     0%   {color:red;}
     12.5%   {color:orange;}
