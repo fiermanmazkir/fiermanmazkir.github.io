@@ -68,7 +68,8 @@ p {
 }
 
 .twitter {
-	margin: 5px 7px;
+	margin: 5px 10px;
+	padding: 3px;
 	border: 2px solid Black;
 	display: inline;
 }
