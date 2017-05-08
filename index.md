@@ -18,7 +18,7 @@ box-shadow: 4px 4px 8px 0 rgba(0, 0, 0, 0.2), 6px 6px 20px 0 rgba(0, 0, 0, 0.19)
 h1.welcome {
   font-family: Pacifico;
   font-size: 50px;
-  color: linear-gradient(to right, red,orange,yellow,green,blue,indigo,violet);
+  color: red;
 }
 
 h1.welcome:hover {
