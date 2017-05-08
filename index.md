@@ -12,7 +12,7 @@ cat: home
 }
 
 body {
-background-image: url("paper.gif");
+background-image: url("/images/2233.png");
 }
 </style>
 
