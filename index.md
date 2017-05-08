@@ -19,6 +19,6 @@ Welcome to the Website of Frank Fierman!
 
 <!-- Twitter Timeline -->
 <div class="twitter">
-<a class="twitter-timeline" data-width="300" data-height="750" data-theme="light" href="https://twitter.com/FrankFiermanAZA">Tweets by FrankFiermanAZA</a> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<a class="twitter-timeline" data-width="400" data-height="750" data-theme="light" href="https://twitter.com/FrankFiermanAZA">Tweets by FrankFiermanAZA</a> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 </div>
 
