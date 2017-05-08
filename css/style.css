@@ -81,6 +81,8 @@ p {
    width: 250px;
    color: White;
 	text-align: center;
+   margin: auto;
+   border: 2px solid Black;
 }
 
 h1.godol-board {
