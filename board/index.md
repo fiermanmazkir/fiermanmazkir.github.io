@@ -8,10 +8,15 @@ cat: board
 2017 Fall Board
 
 </h1>
-<p>  
 
-         Godol: Jack Warshal<br>
-	       S'gan: Joey Morris<br>
+<div class="godol-board"> 
+         <h1>Godol</h1>
+	 <h2>Jack Warshal</h2>
+	 <p>Email: godol@frankfierman.com<br>
+	 Phone: XXX.XXX.XXXX</p>
+</div>
+<p>
+	 S'gan: Joey Morris<br>
          S'gan: Dylan Frohman<br>
          Moreh: Caden Sime<br>
          Mazkir: Brandon Sherman<br>
