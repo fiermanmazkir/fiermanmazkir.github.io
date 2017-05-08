@@ -9,7 +9,7 @@ Welcome to our Website!
 </p> </div>
 
 <!-- Twitter Timeline -->
-<div>
+<div class="twitter">
 <a class="twitter-timeline" data-width="300" data-height="500" data-theme="light" href="https://twitter.com/FrankFiermanAZA">Tweets by FrankFiermanAZA</a> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 </div>
 
