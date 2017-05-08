@@ -78,19 +78,17 @@ p {
 	background: Crimson;
 	float: center;
 	clear: both;
-	border-radius: 25px;
-   width: 400px;
+   width: 250px;
+   color: White;
 	
 }
 
 h1.godol-board {
 	font-size: 20px;
-	color: White;
 }
 
 h2.godol-board {
-	font-size: 18px;
+	font-size: 16px;
 	font-family: Arial;
 	text-align: center;
-	color: White;
 }
