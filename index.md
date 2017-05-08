@@ -5,7 +5,7 @@ cat: "home"
 
 <h1>Frank Fierman AZA </h1>
 <div class="welcome"><p>
-Welcome to our Website!
+Welcome to the Website of Frank Fierman!
 </p> </div>
 
 <!-- Twitter Timeline -->
