@@ -42,7 +42,7 @@ h1.welcome {
 Welcome to the Website of Frank Fierman!
 </p> </div>
 
-<div class="img"><img src="/fiermanks2.jpg" style="width:128px;height:128px;"> </div>
+<div class="img"><img src="/fiermanks2.jpg" style="width:250px;max-height:900px;margin:auto;"> </div>
 
 
 
