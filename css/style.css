@@ -73,3 +73,16 @@ p {
 	border: 2px solid Black;
 	float: left;
 }
+
+godol-board {
+	background: Crimson;
+	float: center;
+	clear: both;
+	border-radius: 25px;
+	
+}
+
+h1.godol-board {
+	font-size: 20px;
+	color: White;
+}
