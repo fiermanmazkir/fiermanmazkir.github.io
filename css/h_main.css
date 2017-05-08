@@ -62,3 +62,9 @@ p {
 .welcome {
 	font-size: 16;
 }
+
+.twitter-timeline {
+	margin: 5px 7px;
+	border-style: solid;
+        border-width: 1px;
+}
