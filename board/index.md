@@ -55,12 +55,12 @@ p.board {
 </div>
 =======
 
-<a href="bios/JackWarshal.html"><div class="board"> 
-         <h1 class="board">Jack Warshal</h1>
+<div class="board"> 
+         <a href="bios/JackWarshal.html"><h1 class="board">Jack Warshal</h1>
 	 <h2 class="board">Godol</h2>
 	 <p class="board">godol@frankfierman.com<br>
 	 404.996.8004</p>
-	 </div></a>
+	 </a></div>
 
 <div class="board"> 
          <h1 class="board">Joey Morris</h1>
