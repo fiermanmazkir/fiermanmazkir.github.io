@@ -12,8 +12,8 @@ cat: board
 <div class="godol-board"> 
          <h1 class="godol-board">Jack Warshal</h1>
 	 <h2 class="godol-board">Godol</h2>
-	 <p class="godol-board">Email: godol@frankfierman.com<br>
-	 Phone: XXX.XXX.XXXX</p>
+	 <p class="godol-board">Godol@frankfierman.com<br>
+	 XXX.XXX.XXXX</p>
 </div>
 <p>
 	 S'gan: Joey Morris<br>
