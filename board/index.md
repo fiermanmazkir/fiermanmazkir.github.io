@@ -49,17 +49,7 @@ text-decoration: none;
 </h1>
 
 <div class="maintext">
-<p>  
-
-         Godol: <a href="bios/JackWarshal.html">Jack Warshal</a><br>
-	       S'gan: Joey Morris<br>
-         S'gan: Dylan Frohman<br>
-         Moreh: Caden Sime<br>
-         Mazkir: Brandon Sherman<br>
-         Shaliach: Jared Rakusin<br>
-         Gizbor: Sam Brothman<br>
-         Sopher: Seth May
-
+<p>  (Click a board member to read their bio)
 </p>
 </div>
 
