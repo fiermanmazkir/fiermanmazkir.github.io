@@ -42,6 +42,8 @@ h1.welcome {
 Welcome to the Website of Frank Fierman!
 </p> </div>
 
+<div class="img"><img src="/fiermanks2.jpg"> </div>
+
 
 
 <!-- Twitter Timeline -->
