@@ -10,7 +10,6 @@ body {
     padding: 14px 0px;
     overflow: hidden;
     background-color: #333;
-	border-top: 1px solid white;
 	position: fixed;
     top: 0;
     width: 100%;
@@ -30,7 +29,6 @@ li:last-child {
     padding: 14px 16px;
     text-align: center;
     text-decoration: none;
-	border-right: 1px solid #bbb;
 
 }
 
