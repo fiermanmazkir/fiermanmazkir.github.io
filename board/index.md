@@ -18,13 +18,18 @@ div.board {
    min-width: 500px;
 }
 h1.board {
-	font-size: 20px;
+	font-size: 22px;
 }
 
 h2.board {
-	font-size: 17px;
+	font-size: 19px;
 	font-family: Arial;
 }	
+
+p.board {
+   font-family: Arial;
+   font-size: 16;
+}
 
 </style>
 
