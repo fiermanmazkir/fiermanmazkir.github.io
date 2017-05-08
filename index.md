@@ -2,14 +2,14 @@
 layout: new
 cat: "home"
 ---
-<script>
+<style>
 .twitter {
 	margin: 5px 10px;
 	padding: 3px;
 	border: 2px solid Black;
 	float: left;
 }
-</script>
+</style>
 
 <h1>Frank Fierman AZA </h1>
 <div class="welcome"><p>
