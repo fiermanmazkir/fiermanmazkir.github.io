@@ -16,6 +16,7 @@ cat: board
 div.board {
    margin: auto;
    border: 2px solid Black;
+   padding: auto;
 }
 h1.board {
 	font-size: 20px;
