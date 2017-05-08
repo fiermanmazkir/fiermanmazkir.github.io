@@ -11,12 +11,11 @@ cat: board
 	text-align: center;
 }
 
-a.board {
+div.board {
    margin: auto;
    border: 2px solid Black;
    max-width: 75%;
    min-width: 500px;
-   display:block;
 }
 h1.board {
 	font-size: 22px;
@@ -61,11 +60,11 @@ p.board {
 =======
 
 
-<a href="bios/JackWarshal.html">
+<div class="board">
          <h1 class="board">Jack Warshal</h1>
 	 <h2 class="board">Godol</h2>
 	 <p class="board">godol@frankfierman.com<br>
-	 404.996.8004</p> </a>
+	 404.996.8004</p> </div>
 	 
   
 <div class="board"> 
