@@ -24,7 +24,8 @@ h2.godol-board {
 	font-size: 17px;
 	font-family: Arial;
 }	
-<!-- S'gan A -->
+
+
 .sgana-board {
 	background: Crimson;
 	float: center;
@@ -60,6 +61,7 @@ h2.sgana-board {
 	 <p class="godol-board">Godol@FrankFierman.com<br>
 	 XXX.XXX.XXXX</p>
 </div>
+
 <div class="sgana-board"> 
          <h1 class="sgana-board">Joey Morris</h1>
 	 <h2 class="sgana-board">S'gan</h2>
