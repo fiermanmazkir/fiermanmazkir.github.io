@@ -10,6 +10,10 @@ cat: home
 	float: right;
 	box-shadow: 4px 4px 8px 0 rgba(0, 0, 0, 0.2), 6px 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
+
+body {
+background-image: url("paper.gif");
+}
 </style>
 
 <h1>Frank Fierman AZA </h1>
