@@ -10,6 +10,7 @@ cat: board
    color: White;
 	text-align: center;
 }
+</style>
 
 div.board {
    margin: auto;
