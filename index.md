@@ -11,13 +11,24 @@ cat: home
 	box-shadow: 4px 4px 8px 0 rgba(0, 0, 0, 0.2), 6px 6px 20px 0 rgba(0, 0, 0, 0.19), -6px -6px 20px 0 rgba(0, 0, 0, 0.19), -4px -4px 8px 0 rgba(0, 0, 0, 0.2);
 }
 
-p.welcome {
-	font-size: 16;
-}
 h1.welcome {
   font-family: Pacifico;
-  font-size: 50;
+  font-size: 32px;
+  color: red;
+  animation-name: header1;
+  animation-duration: 4.5s;
+  animation-iteration-count: infinite;
 }
+@keyframes header1 {
+    0%   {color:red;}
+    12.5%   {color:orange;}
+    25%  {color:yellow;}
+    37.5%   {color:limegreen;}
+    50%  {color:green;}
+    62.5%  {color:blue;}
+    75%   {color:purple;}
+    87.5%   {color:magenta;}
+    100% {color:red;}
 
 body {
  background-image: url("/images/2233.png");
