@@ -80,7 +80,7 @@ p {
 	clear: both;
    width: 250px;
    color: White;
-	
+	text-align: center;
 }
 
 h1.godol-board {
@@ -90,5 +90,4 @@ h1.godol-board {
 h2.godol-board {
 	font-size: 16px;
 	font-family: Arial;
-	text-align: center;
 }
