@@ -33,7 +33,7 @@ h1.welcome {
     100% {color:red;}
 
 /*body {
- background-image: url("/images/2233.png");*/
+ background-image: url("/2233.png");*/
 
 </style>
 
@@ -42,7 +42,7 @@ h1.welcome {
 Welcome to the Website of Frank Fierman!
 </p> </div>
 
-<div class="img"><img src="/fiermanks2.jpg"> </div>
+<div class="img"><img src="/fiermanks2.jpg" style="width:128px;height:128px;"> </div>
 
 
 
