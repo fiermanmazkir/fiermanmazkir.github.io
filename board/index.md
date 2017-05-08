@@ -42,8 +42,8 @@ p.board {
 
 .board a {text-decoration: none;}
 
-#top {border-radius: 20px 20px 0 0;}
-#bottom {border-radius: 0 0 20px 20px;}
+#top {border-radius: 30px 30px 0 0;}
+#bottom {border-radius: 0 0 30px 30px;}
 #space {margin: 0 0 30px 0}
 </style>
 
