@@ -16,7 +16,7 @@ h1.welcome {
   font-size: 32px;
   color: red;
   animation-name: header1;
-  animation-duration: 4.5s;
+  animation-duration: 9s;
   animation-iteration-count: infinite;
 }
 @keyframes header1 {
