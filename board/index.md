@@ -55,13 +55,18 @@ p.board {
 </div>
 =======
 
-<div class="board"> 
+<div class="board" id="jack" style="cursor:pointer;"> 
          <a href="bios/JackWarshal.html"><h1 class="board">Jack Warshal</h1>
 	 <h2 class="board">Godol</h2>
 	 </a> <p class="board">godol@frankfierman.com<br>
 	 404.996.8004</p>
 	 </div>
-
+	 
+  $("#jack").change(function()
+  {
+   document.location.href = 'indextest.html';
+  });
+  
 <div class="board"> 
          <h1 class="board">Joey Morris</h1>
 	 <h2 class="board">S'gan</h2>
