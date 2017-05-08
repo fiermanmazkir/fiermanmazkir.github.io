@@ -14,11 +14,5 @@ Created in 1980, Frank Fierman AZA #2233 is the oldest and longest running chapt
 Mascots: Colonel Sanders and Caption Planet <br>
 <img src="/history/fiermanks1.jpeg" height="30%" width="30%" /> <br>
 <br>
-Henry Monskey Awards:<br>
-- 1993-1994<br>
-- 1995-1996<br>
-- 1996-1997<br>
-- 1998-1999<br>
-- 2016-2017
 </p>
 
