@@ -22,7 +22,6 @@ div.board {
 }
 
 div:hover.board{
-	/*background: #740000;*/
 	background: Firebrick;
 }
 
