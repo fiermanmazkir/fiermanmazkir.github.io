@@ -9,7 +9,8 @@ cat: home
 	border-radius: 7px;
 	float: right;
 	/*box-shadow: 4px 4px 8px 0 rgba(0, 0, 0, 0.2), 6px 6px 20px 0 rgba(0, 0, 0, 0.19), -6px -6px 20px 0 rgba(0, 0, 0, 0.19), -4px -4px 8px 0 rgba(0, 0, 0, 0.2);*/
-	display: inline;
+  float: right;
+  display: inline;
 }
 
 .twitter:hover {
@@ -22,8 +23,8 @@ h1.welcome {
   color: red;
 }
 
-#img {
-float: left;
+img {
+float: right;
 margin: auto;
 display: inline;
 }
@@ -38,11 +39,11 @@ display: inline;
 Welcome to the Website of Frank Fierman!
 </p> </div>
 
-<!--<div class="img"><img src="/fiermanks2.jpg" style="max-width:350px;max-height:100%;"> </div>-->
-
 
 
 <!-- Twitter Timeline -->
 <div class="twitter">
 <a class="twitter-timeline" data-width="400" data-height="750" data-theme="light" href="https://twitter.com/FrankFiermanAZA">Tweets by FrankFiermanAZA</a> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 </div>
+
+<div class="img"><img src="/fiermanks2.jpg" style="max-width:350px;max-height:100%;"> </div>
