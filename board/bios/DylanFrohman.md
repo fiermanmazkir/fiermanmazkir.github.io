@@ -28,15 +28,7 @@ img {
     display: block;
     margin: inherit;
     border: 2px solid Black;
-    }
-img:hover {
-    animation-name: spin;
-    animation-duration: 4s;
-}
-@keyframes spin {
-    0% {transform: rotate(90deg);}
-    100% {tranform: rotate(450deg);}
-}
+   
 p {
     -webkit-column-span: 1;
     column-span: 1;
