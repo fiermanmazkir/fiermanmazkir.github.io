@@ -12,13 +12,21 @@ font-family: Arial;
 text-align: center;
 }
 
-  .caption {
-    color: #ABABAB;
-    font-style: italic;
-    align: center;
-    font-size: .7em;
-    margin: 0px;
-  }
+div.maintext {
+    -webkit-column-count: 2;
+    -moz-column-count: 2;
+    column-count: 2;
+}
+
+img {
+    -webkit-column-span: 1; 
+    column-span: 1;
+    float: right;
+    }
+    
+p {
+    -webkit-column-span: 1; 
+    column-span: 1;
 </style>
 
 
@@ -26,10 +34,7 @@ text-align: center;
 <h2> Position: S'gan <br>
 Grade: Sophomore </h2>
 
-<div class="caption">
-<img style="margin:auto; display:block;" src="">
-<p></p>
-</div><br>
 <div class="maintext">
-<p>Hello, I am Dylan. I like football, basketball, bbyo, and dinosaurs. My favorite food is pizza and I'm excited to be Frank Fierman's S'gan. </p>
+<img style="margin:auto; display:block;" src=".png">
 </div>
+
