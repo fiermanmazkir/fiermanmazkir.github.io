@@ -21,6 +21,7 @@ div.maintext {
 img {
     -webkit-column-span: 1; 
     column-span: 1;
+    float: right;
     }
     
 p {
