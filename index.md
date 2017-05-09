@@ -9,7 +9,9 @@ cat: home
 	border-radius: 7px;
 	float: right;
 	/*box-shadow: 4px 4px 8px 0 rgba(0, 0, 0, 0.2), 6px 6px 20px 0 rgba(0, 0, 0, 0.19), -6px -6px 20px 0 rgba(0, 0, 0, 0.19), -4px -4px 8px 0 rgba(0, 0, 0, 0.2);*/
-  
+  width: 34%;
+  display: inline
+>>>>>>> origin/master
 }
 
 .twitter:hover {
