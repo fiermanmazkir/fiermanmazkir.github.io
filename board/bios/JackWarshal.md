@@ -31,4 +31,4 @@ Grade: Freshman </h2>
 <img style="margin:auto; display:block;" src="JackDay.png">
 <p>Here is Jack getting his proclamation from the mayor</p>
 </div><br>
-<p style="font-size:0.08em">affectionately know as "Little Bitch"</p>
+<p style="font-size:0.08em">Little Bitch</p>
