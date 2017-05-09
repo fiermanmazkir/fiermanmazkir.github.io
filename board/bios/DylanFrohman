@@ -1,0 +1,35 @@
+---
+layout: new
+cat: board
+---
+
+<style>
+
+h2 {
+font-size: 18px;
+color: Black;
+font-family: Arial;
+text-align: center;
+}
+
+  .caption {
+    color: #ABABAB;
+    font-style: italic;
+    align: center;
+    font-size: .7em;
+    margin: 0px;
+  }
+</style>
+
+
+# Dylan Frohman
+<h2> Position: S'gan <br>
+Grade: Sophomore </h2>
+
+<div class="caption">
+<img style="margin:auto; display:block;" src="">
+<p></p>
+</div><br>
+<div class="maintext">
+<p>Hello, I am Dylan. I like football, basketball, bbyo, and dinosaurs. My favorite food is pizza and I'm excited to be Frank Fierman's S'gan. </p>
+</div>
