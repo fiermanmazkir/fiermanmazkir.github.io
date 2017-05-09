@@ -39,7 +39,7 @@ p.board {
 }
 
 p.maintext {
-  color: Salmon;
+  color: Red;
   text-decoration: none;
 }
 
