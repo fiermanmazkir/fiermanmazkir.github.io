@@ -14,7 +14,7 @@ text-align: center;
 
 # Jack Warshal
 <h2> Position: Godol <br>
-Age: Freshman </h2>
+Grade: Freshman </h2>
 <div class="maintext">
 </div>
 <p style="font-size:0.08em">affectionately know as "Little Bitch"</p>
