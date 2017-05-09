@@ -21,7 +21,7 @@ div.board {
 h1.head {
    color: Red;
    font-family: Pacifico;
-   font-size: 32;
+   font-size: 32px;
 }
 h1.board {
 	font-size: 22px;
