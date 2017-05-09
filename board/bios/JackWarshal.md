@@ -4,7 +4,8 @@ cat: board
 ---
 
 # Jack Warshal
-
+##Godol
+###Sophomore
 <div class="maintext">
 <ul>
 <li>2017 Dunwoody Sustainability Hero</li><br>
