@@ -16,7 +16,7 @@ text-align: center;
     color: #ABABAB;
     font-style: italic;
     align: center;
-    font-size: 0.5em;
+    font-size: 1em;
     margin: 0px;
   }
 </style>
