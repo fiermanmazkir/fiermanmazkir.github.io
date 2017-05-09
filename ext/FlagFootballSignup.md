@@ -1,6 +1,6 @@
 ---
 layout: new
-cat: home
+cat: football
 ---
 # BBYO Flag Football Signup
 <div style="border: 2px solid Black; overflow: hidden; margin: 15px auto; max-width: 750px;">
