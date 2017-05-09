@@ -16,7 +16,6 @@ div.maintext {
     -webkit-column-count: 2;
     -moz-column-count: 2;
     column-count: 2;
-    column-width: 235px;
     margin: auto;
 }
 
@@ -33,7 +32,7 @@ img {
 p {
     -webkit-column-span: 1;
     column-span: 1;
-    column-width: 235px;
+
   }
 </style>
 
@@ -43,6 +42,6 @@ p {
 Grade: Sophomore </h2>
 
 <div class="maintext" style="max-width:540px;">
-<img style="margin:auto; display:block;" src="Dylan.jpg" style="width:100%;height:100%;">
-<p>Dylan likes football, basketball, bbyo, and dinosaurs, and his favorite food is pizza.</p>
+<img style="margin:auto; display:block; max-width:100%; max-height:100%" src="Dylan.jpg">
+<p style="max-width: 235px;">Dylan likes football, basketball, bbyo, and dinosaurs, and his favorite food is pizza.</p>
 </div>
