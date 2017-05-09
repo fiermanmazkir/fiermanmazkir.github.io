@@ -28,8 +28,8 @@ margin: auto;
 display: inline;
 }
 
-body {
- background-image: url("/images/FBackgroundSmall.png")
+/*body {
+ background-image: url("/images/FBackgroundSmall.png")*/
 
 </style>
 
