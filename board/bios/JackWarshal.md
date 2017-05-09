@@ -35,5 +35,5 @@ Grade: Freshman </h2>
 
 <div class="maintext">
 <img style="margin:auto; display:block;" src="JackDay.png">
-</div
+</div>
 
