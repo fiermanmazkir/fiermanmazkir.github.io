@@ -38,7 +38,7 @@ p.board {
    font-size: 16;
 }
 
-.maintext {
+p.maintext {
   color: Salmon;
   text-decoration: none;
 }
@@ -55,7 +55,7 @@ body {background-image: url("/images/FBackgroundSmall.png")
 <h1 class="head">Frank Fierman Board</h1>
 
 <div class="maintext">
-<p>  (Click a board member to read their bio)
+<p class="maintext">  (Click a board member to read their bio)
 </p>
 </div>
 
