@@ -34,7 +34,7 @@ p {
 
 # Jack Warshal
 <h2> Position: Godol <br>
-Grade: Freshman </h2>
+Grade: Sophomore </h2>
 
 <div class="maintext" style="max-width:540px;">
 <img style="margin:auto; display:block; max-width:100%; max-height:100%" src="JackDay.png">
