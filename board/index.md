@@ -39,7 +39,7 @@ p.board {
 }
 
 .maintext a {
-  color: Gray;
+  color: Salmon;
   text-decoration: none;
 }
 
@@ -78,6 +78,7 @@ body {background-image: url("/images/FBackgroundSmall.png")
          <h1 class="board">Dylan Frohman</h1>
 	 <h2 class="board">S'gan</h2>
 	 <p class="board">sganb@frankfierman.com<br>
+	 770.851.7648
 	 </p>
 	 </div>
 
