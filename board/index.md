@@ -51,7 +51,7 @@ p.board {
 body {background-image: url("/images/FBackgroundSmall.png")
 </style>
 
-<h1 class="head">2017 Fall Board</h1>
+<h1 class="head">Frank Fierman Board</h1>
 
 <div class="maintext">
 <p>  (Click a board member to read their bio)
