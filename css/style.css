@@ -51,6 +51,8 @@ li:last-child {
     padding: 17px 16px;
     text-align: center;
     text-decoration: none;
+    -webkit-transition: background-color .7s;
+    transition: background-color .7s;
 
 
 }
@@ -61,6 +63,8 @@ li:last-child {
 }
 .active {
     background-color: Crimson;
+    -webkit-transition: background-color .7s;
+    transition: background-color .7s;
 }
 /*
 .nav a {

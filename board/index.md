@@ -17,10 +17,12 @@ div.board {
    border: 2px solid Black;
    max-width: 700px;
    min-width: 500px;
+    -webkit-transition: background 1s;
+    transition: background .7s;
 }
 
 div:hover.board{
-	background: #740000;
+	background: Firebrick;
 }
 
 h1.head {
