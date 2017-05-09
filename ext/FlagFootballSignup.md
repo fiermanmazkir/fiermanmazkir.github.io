@@ -2,10 +2,7 @@
 layout: new
 cat: home
 ---
-<iframe src="http://www.atlantajcc.org/pldb-live/bbyo-co-ed-fall-flag-football-league-37023/?back=pldb_active"
-        width="80%" height="500px" frameborder="0"
-        allowfullscreen sandbox>
-  <p> <a href="http://www.atlantajcc.org/pldb-live/bbyo-co-ed-fall-flag-football-league-37023/?back=pldb_active">
-    Signup
-  </a> </p>
+<div style="border: 2px solid #D5CC5A; overflow: hidden; margin: 15px auto; max-width: 575px;">
+<iframe scrolling="no" src="http://www.atlantajcc.org/pldb-live/bbyo-co-ed-fall-flag-football-league-37023/?back=pldb_active" style="border: 0px none; margin-left: -36px; height: 812px; margin-top: -486px; width: 650px;">
 </iframe>
+</div>
