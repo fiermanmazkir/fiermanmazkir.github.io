@@ -9,7 +9,7 @@ h2 {
 font-size: 18px;
 color: Black;
 font-family: Arial;
-text-align: center;
+text-align: left;
 }
 
 div.maintext {
