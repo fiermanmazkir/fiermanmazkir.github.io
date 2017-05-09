@@ -4,7 +4,7 @@ cat: home
 ---
 <style>
 .twitter {
-	margin: 5px 30px 5px 10px;
+	margin: 5px 80px 5px 10px;
 	border: 2px solid Black;
 	border-radius: 7px;
 	float: right;
