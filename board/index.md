@@ -76,7 +76,7 @@ body {background-image: url("/images/FBackgroundSmall.png")
 
 
 <div class="board" id="top">
-<a href="bios/JackWarshal.html" class="board">
+<a href="bios/JackWarshal" class="board">
 <h1 class="board">Jack Warshal</h1>
 <h2 class="board">Godol</h2>
 <p class="board">godol@frankfierman.com<br>404.996.8004</p></a>
@@ -89,20 +89,20 @@ body {background-image: url("/images/FBackgroundSmall.png")
 	 </p>
 	 </div>
 
-<div class="board"> <a href="/board/bios/DylanFrohman.html">
+<div class="board"> <a href="/board/bios/DylanFrohman">
          <h1 class="board">Dylan Frohman</h1>
-	 <h2 class="board">S'gan</h2> </a>
+	 <h2 class="board">S'gan</h2> 
 	 <p class="board">sganb@frankfierman.com<br>
 	 770.851.7648
-	 </p>
+	 </p></a>
 	 </div>
 
-<div class="board">
+<div class="board"> <a href="/board/bios/CadenSime">
          <h1 class="board">Caden Sime</h1>
 	 <h2 class="board">Moreh</h2>
 	 <p class="board">moreh@frankfierman.com<br>
 	 770.314.6164
-	 </p>
+	 </p></a>
 	 </div>
 
 <div class="board">
