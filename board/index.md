@@ -18,6 +18,11 @@ div.board {
    max-width: 700px;
    min-width: 500px;
 }
+
+div:hover.board{
+	background: #740000;
+}
+
 h1.head {
    color: Red;
    font-family: Pacifico;
@@ -26,16 +31,19 @@ h1.head {
 }
 h1.board {
 	font-size: 22px;
+	background: inherit;
 }
 
 h2.board {
 	font-size: 19px;
 	font-family: Arial;
+	background: inherit;
 }
 
 p.board {
    font-family: Arial;
    font-size: 16;
+	 background: inherit;
 }
 
 p.maintext {
@@ -43,7 +51,11 @@ p.maintext {
   text-decoration: none;
 }
 
-.board a {text-decoration: none;}
+.board a, a:hover, a:active {
+	text-decoration: none;
+	background: inherit;
+}
+
 
 #top {border-radius: 25px 25px 0 0;}
 #bottom {border-radius: 0 0 25px 25px;}
@@ -61,12 +73,12 @@ body {background-image: url("/images/FBackgroundSmall.png")
 </div>
 
 
-
-<div class="board" id="top"> <a href="/board/bios/JackWarshal.html">
-         <h1 class="board">Jack Warshal</h1>
-	 <h2 class="board">Godol</h2> </a>
-	 <p class="board">godol@frankfierman.com<br>
-	 404.996.8004</p> </div>
+<div class="board" id="top">
+<a href="bios/JackWarshal.html" class="board">
+<h1 class="board">Jack Warshal</h1>
+<h2 class="board">Godol</h2>
+<p class="board">godol@frankfierman.com<br>404.996.8004</p></a>
+</div>
 
 <div class="board">
 <h1 class="board">Joey Morris</h1>
