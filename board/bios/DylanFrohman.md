@@ -27,6 +27,7 @@ img {
     transform: rotate(90deg);
     display: block;
     margin: inherit;
+    border: 2px solid Black;
     }
 
 p {
