@@ -68,10 +68,9 @@ p.board {
 	 404.996.8004</p> </a></div>
 
 <div class="board">
-
-         <h1 class="board">Joey Morris</h1>
+<h1 class="board">Joey Morris</h1>
 	 <h2 class="board">S'gan</h2>
-	 <p class="board">sgangold@gmail.com<br>
+	 <p class="board">sgana@frankfierman.com<br>
 	 </p>
 	 </div>
 
