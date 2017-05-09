@@ -30,7 +30,12 @@ img {
     border: 2px solid Black;
     }
 img:hover {
-box-shadow: 4px 0px 8px 0 rgba(0, 0, 0, 0.2), 6px 0px 20px 0 rgba(0, 0, 0, 0.19), -6px -6px 20px 0 rgba(0, 0, 0, 0.19), -4px -4px 8px 0 rgba(0, 0, 0, 0.2);
+    animation-name: spin;
+    animation-duration: 4s;
+}
+@keyframes spin {
+    0% {transform: rotate(90deg);}
+    100% {tranform: rotate(450deg);}
 }
 p {
     -webkit-column-span: 1;
