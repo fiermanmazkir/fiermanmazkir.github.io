@@ -55,7 +55,8 @@ body {background-image: url("/images/FBackgroundSmall.png")
 <h1 class="head">Frank Fierman Board</h1>
 
 <div class="maintext">
-<p class="maintext">  (Click a board member to read their bio)
+<p class="maintext" style="color:#000">
+<b><i>  (Click a board member to read their bio) </i></b>
 </p>
 </div>
 
@@ -119,4 +120,4 @@ body {background-image: url("/images/FBackgroundSmall.png")
 	 </p>
 	 </div>
 
-<div id="space"> </div> 
+<div id="space"> </div>
