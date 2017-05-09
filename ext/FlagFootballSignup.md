@@ -2,7 +2,7 @@
 layout: new
 cat: home
 ---
-<div style="border: 2px solid Black; overflow: hidden; margin: 15px auto; max-width: 500px; max-height: 700px;">
-<iframe scrolling="no" src="http://www.atlantajcc.org/pldb-live/bbyo-co-ed-fall-flag-football-league-37023/?back=pldb_active" style="border: 0px none; margin-left: -260; height: 100%; margin-top: -150; width: 100%;">
+<div style="border: 2px solid Black; overflow: hidden; margin: 15px auto; max-width: 100%; max-height: 100%;">
+<iframe scrolling="no" src="http://www.atlantajcc.org/pldb-live/bbyo-co-ed-fall-flag-football-league-37023/?back=pldb_active" style="border: 0px none; margin-left: -260; height: 100px; margin-top: -150; width: 100%;">
 </iframe>
 </div>
