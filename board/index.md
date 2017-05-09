@@ -22,7 +22,7 @@ h1.head {
    color: Red;
    font-family: Pacifico;
    font-size: 32px;
-   text-shadow: 2px 2px 5px;
+   text-shadow: 2px 2px 5px #000;
 }
 h1.board {
 	font-size: 22px;
