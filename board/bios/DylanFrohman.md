@@ -34,6 +34,11 @@ p {
     column-span: 1;
 
   }
+h2 {
+    -webkit-column-span: 1;
+    column-span: 1;
+
+  }
 </style>
 
 # Dylan Frohman
