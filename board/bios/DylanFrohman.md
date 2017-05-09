@@ -32,6 +32,7 @@ img {
 p {
     -webkit-column-span: 1;
     column-span: 1;
+    text-align: left;
 
   }
 h2 {
