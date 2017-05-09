@@ -38,7 +38,7 @@ p.board {
    font-size: 16;
 }
 
-.maintext a {
+.maintext {
   color: Salmon;
   text-decoration: none;
 }
