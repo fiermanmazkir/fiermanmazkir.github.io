@@ -22,6 +22,10 @@ img {
     -webkit-column-span: 1; 
     column-span: 1;
     float: right;
+
+    -ms-transform: rotate(90deg);
+    -webkit-transform: rotate(90deg);
+    transform: rotate(90deg);
     }
     
 p {
@@ -35,7 +39,7 @@ p {
 Grade: Sophomore </h2>
 
 <div class="maintext">
-<img style="margin:auto; display:block;" src="Dylan.jpg">
+<img style="margin:auto; display:block;" src="Dylan.jpg" style="width:25%;height:25%;">
 <p> Dylan likes football, basketball, bbyo, and dinosaurs, and his favorite food is pizza. </p>
 </div>
 
