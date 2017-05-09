@@ -40,6 +40,6 @@ Grade: Sophomore </h2>
 
 <div class="maintext">
 <img style="margin:auto; display:block;" src="Dylan.jpg" style="width:40%;height:40%;">
-<p> Dylan likes football, basketball, bbyo, and dinosaurs, and his favorite food is pizza. </p>
+<!--<p> Dylan likes football, basketball, bbyo, and dinosaurs, and his favorite food is pizza. </p>-->
 </div>
 
