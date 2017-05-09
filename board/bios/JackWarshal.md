@@ -17,4 +17,4 @@ text-align: center;
 Grade: Freshman </h2>
 <div class="maintext">
 </div>
-<p style="font-size:0.08em">affectionately know as "Little Bitch"</p>
+<p style="font-size:0.08em">Little Bitch</p>
