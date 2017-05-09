@@ -21,4 +21,4 @@ background-color: Crimson;
 </iframe>
 </div>
 
-<button class="button" href="http://online.activenetwork.com/MJCCA/Activities/ActivitiesCourseDetails.asp?aid=305&cid=42890">Click Here to Register</button>
+<a href="http://online.activenetwork.com/MJCCA/Activities/ActivitiesCourseDetails.asp?aid=305&cid=42890"><button class="button">Click Here to Register</button></a>
