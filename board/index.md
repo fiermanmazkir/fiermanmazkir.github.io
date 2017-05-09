@@ -12,15 +12,17 @@ cat: board
    	color: White;
 	text-align: center;
 }
-
-
 div.board {
    margin: auto;
    border: 2px solid Black;
    max-width: 700px;
    min-width: 500px;
 }
-
+h1.head {
+   color: Red;
+   font-family: Pacifico;
+   font-size: 32;
+}
 h1.board {
 	font-size: 22px;
 }
@@ -49,12 +51,7 @@ p.board {
 body {background-image: url("/images/FBackgroundSmall.png")
 </style>
 
-<h1>
-
-2017 Fall Board
-
-
-</h1>
+<h1 class="head">2017 Fall Board</h1>
 
 <div class="maintext">
 <p>  (Click a board member to read their bio)
