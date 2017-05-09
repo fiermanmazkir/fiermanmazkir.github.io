@@ -3,9 +3,16 @@ layout: new
 cat: board
 ---
 
+<style>
+h2 {
+font-size: 18px;
+
+}
+</style>
+
 # Jack Warshal
-##Godol
-###Sophomore
+<h2> Position: Godol <br>
+Age: Freshman </h2>
 <div class="maintext">
 <ul>
 <li>2017 Dunwoody Sustainability Hero</li><br>
