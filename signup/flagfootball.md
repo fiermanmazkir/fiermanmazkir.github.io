@@ -4,7 +4,15 @@ cat: football
 ---
 
 <style>
-.button {width: 750px;}
+.button {
+width: 750px;
+border-radius: 8px;
+padding: 15px 0px;
+font-size: 20px;
+font-family: Arial
+color: White;
+background-color: Crimson;
+}
 </style>
 
 # BBYO Flag Football Signup
@@ -13,4 +21,4 @@ cat: football
 </iframe>
 </div>
 
-<button class="button"><a href="http://online.activenetwork.com/MJCCA/Activities/ActivitiesCourseDetails.asp?aid=305&cid=42890">Click Here to Register</a></button>
+<button class="button" href="http://online.activenetwork.com/MJCCA/Activities/ActivitiesCourseDetails.asp?aid=305&cid=42890">Click Here to Register</button>
