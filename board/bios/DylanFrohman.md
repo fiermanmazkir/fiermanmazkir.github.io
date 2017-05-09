@@ -16,21 +16,25 @@ div.maintext {
     -webkit-column-count: 2;
     -moz-column-count: 2;
     column-count: 2;
+    column-width: 235px;
+    margin: auto;
 }
 
 img {
-    -webkit-column-span: 1; 
+    -webkit-column-span: 1;
     column-span: 1;
-    float: right;
-
     -ms-transform: rotate(90deg);
     -webkit-transform: rotate(90deg);
     transform: rotate(90deg);
+    display: block;
+    margin: inherit;
     }
-    
+
 p {
-    -webkit-column-span: 1; 
-    column-span: auto;
+    -webkit-column-span: 1;
+    column-span: 1;
+    column-width: 235px;
+  }
 </style>
 
 
@@ -38,8 +42,7 @@ p {
 <h2> Position: S'gan <br>
 Grade: Sophomore </h2>
 
-<div class="maintext">
-<img style="margin:auto; display:block;" src="Dylan.jpg" style="width:40%;height:40%;">
-<p> Dylan likes football, basketball, bbyo, and dinosaurs, and his favorite food is pizza. </p>
+<div class="maintext" style="max-width:540px;">
+<img style="margin:auto; display:block;" src="Dylan.jpg" style="width:100%;height:100%;">
+<p>Dylan likes football, basketball, bbyo, and dinosaurs, and his favorite food is pizza.</p>
 </div>
-
