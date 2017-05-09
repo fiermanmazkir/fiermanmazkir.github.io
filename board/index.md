@@ -18,7 +18,7 @@ div.board {
    max-width: 700px;
    min-width: 500px;
     -webkit-transition: background 1s;
-    transition: background 1s;
+    transition: background .7s;
 }
 
 div:hover.board{
