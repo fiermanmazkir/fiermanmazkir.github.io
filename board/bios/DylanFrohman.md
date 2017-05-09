@@ -48,5 +48,5 @@ h2 {
 <img style="margin:auto; display:block; max-width:100%; max-height:100%" src="Dylan.jpg">
 <h2> Position: S'gan <br>
 Grade: Sophomore </h2>
-<p style="max-width: 235px;">Dylan likes football, basketball, bbyo, and dinosaurs, and his favorite food is pizza.</p>
+<p style="max-width: 235px;">Dylan likes football, basketball, bbyo, and dinosaurs. His favorite food is pizza.</p>
 </div>
