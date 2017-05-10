@@ -10,30 +10,7 @@
 <!-- Fonts -->
   <link href="https://fonts.googleapis.com/css?family=Pacifico" rel="stylesheet">
 </head>
-<style>
- <!-- .dropdown{
-    position: relative;
-    display: inline-block;
-  }-->
 
-  .dropdown-content{
-    display: none;
-    position: absolute;
-    background-color: White;
-    min-width: 100%;
-    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
-    padding: 12px 0px;
-    z-index: 1;
-  }
-
-  .dropdown:hover .dropdown-content {
-    display: block;
-  }
-
-  body{
-    padding-top: 50px;
-  }
-</style>
 <body>
   <div class="nav">
   <header>
@@ -57,13 +34,10 @@
       {% endif %}
 
       {% if page.cat == "signup" %}
-          <li><a class="active dropdown">Signups</a></li>
+          <li><a class="active">Forms</a></li>
       {% else %}
           <li><a>Signups</a></li>
       {% endif %}
-          <div class="dropdown dropdown-content">
-            <a href="/signup/flagfootball">Flag Football</a>
-          </div>
 <!--
       {% if page.cat == "calendar" %}
           <li><a href="/calendar" class = "active">Calendar</a></li>
