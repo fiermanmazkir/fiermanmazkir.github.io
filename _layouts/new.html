@@ -11,50 +11,120 @@
   <link href="https://fonts.googleapis.com/css?family=Pacifico" rel="stylesheet">
 </head>
 
-<body>
-  <div class="nav">
-  <header>
-    <ul>
-      {% if page.cat == "home" %}
-          <li><a href="/" class = "active">Home</a></li>
-      {% else %}
-	    <li><a href="/">Home</a></li>
-      {% endif %}
+<style>
+  .container {
+    overflow: hidden;
+    background-color: #333;
+    font-family: Helvetica, sans-serif;
+  }
 
-      {% if page.cat == "board" %}
-          <li><a href="/board" class = "active">Board</a></li>
-      {% else %}
-          <li><a href="/board">Board</a></li>
-      {% endif %}
+  .container a {
+    float: left;
+    font-size: 1em;
+    text-align: center;
+    padding: 16px 16px;
+    text-decoration: none;
+  }
 
-      {% if page.cat == "history" %}
-          <li><a href="/history" class = "active">History</a></li>
-      {% else %}
-          <li><a href="/history">History</a></li>
-      {% endif %}
+  .container p {
+    color: White;
+    padding-right: 16px;
+  }
 
-      {% if page.cat == "signup" %}
-          <li><a href="#" class="active">Forms</a></li>
-      {% else %}
-          <li><a href="#">Forms</a>
-	    <ul><br>
-		    <li><a href="/signups/flagfootball">Flag Football</a></li>
-	    </ul>
-	    </li>
-      {% endif %}
+  .dropdown{
+    float: left;
+    overflow: hidden;
+  }
+
+  .dropdown .dropdownitem {
+    border: none;
+    outline: none;
+    background-color: inherit;
+    padding: 16px 16px;
+    font-size: 1em;
+    color: White;
+    margin: 0 0 0 0;
+  }
+
+  .dropdown-content{
+    display: none;
+    position: absolute;
+    background-color: #5a5a5a;
+    min-width: 160px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    z-index: 1;
+  }
+
+  a.dropdown-content{
+    color: White;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+    float: none;
+    text-align: left;
+    background-color: inherit;
+  }
+
+
+  .dropdown:hover .dropdown-content {
+    display: block;
+  }
+
+  .dropdowncontent a:hover {
+    background-color: Black;
+  }
+
+  body {
+    z-index: 0;
+  }
+</style>
+
+<header>
+<div class="container">
+
+    {% if page.cat == "home" %}
+    <a href="/" class = "active">Home</a>
+    {% else %}
+    <a href="/">Home</a>
+    {% endif %}
+
+    {% if page.cat == "board" %}
+        <a href="/board" class = "active">Board</a>
+    {% else %}
+        <a href="/board">Board</a>
+    {% endif %}
+
+    {% if page.cat == "history" %}
+        <a href="/history" class = "active">History</a>
+    {% else %}
+        <a href="/history">History</a>
+    {% endif %}
+
+    <div class=dropdown>
+    {% if page.cat == "signup" %}
+        <button class = "dropdownitem active">Signups</button>
+    {% else %}
+        <button class = "dropdownitem">Signups</button>
+    {% endif %}
+
+        <div class="dropdown-content">
+          <a href="/signup/flagfootball">Flag Football</a><br>
+          <a href="#">Other stuff</a>
+        </div>
+    </div>
 <!--
-      {% if page.cat == "calendar" %}
-          <li><a href="/calendar" class = "active">Calendar</a></li>
-      {% else %}
-          <li><a href="/calendar">Calendar</a></li>
-      {% endif %}
+    {% if page.cat == "calendar" %}
+        <li><a href="/calendar" class = "active">Calendar</a></li>
+    {% else %}
+        <li><a href="/calendar">Calendar</a></li>
+    {% endif %}
 -->
-      <li style="float:right">Frank Fierman AZA #2233</li>
-    </ul>
-	</header>
+    <p style="float:right">Frank Fierman AZA #2233</p>
 
-	</div>
-	<br><br><br>
+</div>
+</header>
+<body>
+
 
 	{{content}}
 </body>
