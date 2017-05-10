@@ -17,12 +17,8 @@ div.board {
    border: 2px solid Black;
    max-width: 700px;
    min-width: 500px;
-    -webkit-transition: background 1s;
-    transition: background .7s;
-}
-
-a.board{
-	padding: inherit;
+  -webkit-transition: background 1s;
+	transition: background .7s;
 }
 
 div:hover.board{
@@ -60,6 +56,10 @@ p.maintext {
 .board a, a:hover, a:active {
 	text-decoration: none;
 	background: inherit;
+}
+
+a.board {
+	padding: inherit;
 }
 
 

@@ -4,12 +4,32 @@
   <title>Frank Fierman AZA</title>
 
   <link href="/css/style.css" type="text/css" rel="stylesheet" />
-  
+
 <link rel="icon" type="image/x-icon" href="/favicon.ico" />
-  
+
 <!-- Fonts -->
   <link href="https://fonts.googleapis.com/css?family=Pacifico" rel="stylesheet">
 </head>
+<style>
+  .dropdown{
+    position: relative;
+    display: inline-block;
+  }
+
+  .dropdown-content{
+    display: none;
+    position: absolute;
+    background-color: White;
+    min-width: 100%;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    padding: 12px 0px;
+    z-index: 1;
+  }
+
+  .dropdown:hover .dropdown-content {
+    display: block;
+  }
+</style>
 <body>
   <div class="nav">
   <header>
@@ -31,12 +51,15 @@
       {% else %}
           <li><a href="/history">History</a></li>
       {% endif %}
-	  
-      {% if page.cat == "football" %}
-          <li><a href="/signup/flagfootball" class = "active">Flag Football Signup</a></li>
+
+      {% if page.cat == "signup" %}
+          <li><a class="active dropdown">Signups</a></li>
       {% else %}
-          <li><a href="/signup/flagfootball">Flag Football Signup</a></li>
+          <li><a>Signups</a></li>
       {% endif %}
+          <div class="dropdown dropdown-content">
+            <a href="/signup/flagfootball">Flag Football</a>
+          </div>
 <!--
       {% if page.cat == "calendar" %}
           <li><a href="/calendar" class = "active">Calendar</a></li>
@@ -50,7 +73,7 @@
 
 	</div>
 	<br><br><br>
-	  
+
 	{{content}}
 </body>
 
