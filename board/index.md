@@ -21,6 +21,10 @@ div.board {
     transition: background .7s;
 }
 
+a.board{
+	padding: inherit;
+}
+
 div:hover.board{
 	background: Firebrick;
 }
@@ -89,15 +93,15 @@ body {background-image: url("/images/FBackgroundSmall.png")
 	 </p>
 	 </div>
 
-<div class="board"> <a href="/board/bios/DylanFrohman">
+<div class="board"> <a class="board" href="/board/bios/DylanFrohman">
          <h1 class="board">Dylan Frohman</h1>
-	 <h2 class="board">S'gan</h2> 
+	 <h2 class="board">S'gan</h2>
 	 <p class="board">sganb@frankfierman.com<br>
 	 770.851.7648
 	 </p></a>
 	 </div>
 
-<div class="board"> <a href="/board/bios/CadenSime">
+<div class="board"> <a class="board" href="/board/bios/CadenSime">
          <h1 class="board">Caden Sime</h1>
 	 <h2 class="board">Moreh</h2>
 	 <p class="board">moreh@frankfierman.com<br>
