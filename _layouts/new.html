@@ -34,9 +34,13 @@
       {% endif %}
 
       {% if page.cat == "signup" %}
-          <li><a class="active">Forms</a></li>
+          <li><a href="#" class="active">Forms</a></li>
       {% else %}
-          <li><a>Signups</a></li>
+          <li><a href="#">Forms</a>
+	    <ul>
+		    <li><a href="/signups/flagfootball">Flag Football</a></li>
+	    </ul>
+	    </li>
       {% endif %}
 <!--
       {% if page.cat == "calendar" %}
