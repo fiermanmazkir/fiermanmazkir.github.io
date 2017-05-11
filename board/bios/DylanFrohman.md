@@ -24,11 +24,11 @@ img {
     column-span: 1;
     -ms-transform: rotate(90deg);
     -webkit-transform: rotate(90deg);
-    transform: rotate(90deg);
+    #transform: rotate(90deg);
     display: block;
     margin: inherit;
     border: 2px solid Black;
-   
+
 p {
     -webkit-column-span: 1;
     column-span: 1;
