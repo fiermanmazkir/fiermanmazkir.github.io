@@ -42,7 +42,7 @@ h2 {
 </style>
 
 # Dylan Frohman
-<h2 style:"text-align:center;"> Position: S'gan <br>
+<h2 style="text-align:center;"> Position: S'gan <br>
 Grade: Sophomore </h2>
 <div class="maintext" style="max-width:540px;">
 <img style="margin:auto; display:block; max-width:100%; max-height:100%" src="Dylan.jpg">
