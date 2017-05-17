@@ -126,6 +126,12 @@
     {% else %}
         <a href="/history">History</a>
     {% endif %}
+    
+    {% if page.cat == "calendar" %}
+        <a href="/calendar" class = "active">Calendar</a>
+    {% else %}
+        <a href="/calendar">Calendar</a>
+    {% endif %}
 
     <div class=dropdown>
     {% if page.cat == "signup" %}
