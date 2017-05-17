@@ -47,5 +47,5 @@ Welcome to the Website of Frank Fierman!
 </div>
 
 <div class="img">
-<h2 style="font-size: 32px; font-family: Arial; text-align: center;>Upcoming Events<br>hello<h2>
+<h2 style="font-size: 32px; font-family: Arial; text-align: center;>Upcoming Events<br>hello</h2>
 <img src="/fiermanks2.jpg" style="max-width:350px;max-height:100%;"> </div>
