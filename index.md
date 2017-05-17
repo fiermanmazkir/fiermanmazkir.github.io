@@ -48,7 +48,7 @@ Welcome to the Website of Frank Fierman!
 
 <div class="img">
 <h2 style="font-size: 32px; font-family: Arial; text-align: center;">Upcoming Events<br></h2>
-<div style="border: 2px solid Black;">
+<div style="border: 2px solid Black; display: inline;">
 <h3 style="font-size: 24px; font-family: Arial; text-align: center;">May 25: End of the Year Food Truck Calling Party</h3>
 <h3 style="font-size: 18px; font-family: Arial; text-align: center;">Where: Brook Run Park<br>When: 6pm-Dark(8:39pm)</h3></div>
 <img src="/fiermanks2.jpg" style="max-width:350px;max-height:100%;"> </div>
