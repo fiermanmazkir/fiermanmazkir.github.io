@@ -12,6 +12,8 @@
 </head>
 
 <style>
+
+
   .container {
     overflow: hidden;
     background-color: #333;
@@ -27,7 +29,7 @@
     text-decoration: none;
     color: white;
   }
-.container a:hover {
+  .container a:hover {
 	background-color: Black;
 	}
 
@@ -93,7 +95,11 @@
     background-color: Black;
   }
 
-
+  button.active {
+    background-color: Crimson;
+    -webkit-transition: background-color .3s;
+    transition: background-color .3s;
+  }
 
   body {
     z-index: 0;
@@ -123,7 +129,7 @@
 
     <div class=dropdown>
     {% if page.cat == "signup" %}
-        <button class = "dropdownitem active">Forms and Signups</button>
+        <button style = "background-color:Crimson;" class = "active dropdownitem">Forms and Signups</button>
     {% else %}
         <button class = "dropdownitem">Forms and Signups</button>
     {% endif %}
