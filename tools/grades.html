@@ -28,6 +28,10 @@
 <div style="display:none;">
   Your grade is:
 </div>
+<br>
+<div style="display:none;">
+  You need:
+</div>
 
 <script>
 function reveal() {
@@ -39,8 +43,15 @@ function reveal() {
   var new30 = (p30*.01*1330+(2*exp))/(1330+200);
   var new45 = (p45*.01*750+exp)/(750+100);
   var newgrade = new30*30 + new45*45 + p25*.25;
+  var need = (89.5 - 0.2*eoc - 0.8*0.25*p25 - (p45*.01*750/850)*0.8*45 - (p30*.01*1330/1530)*0.8*30)/(0.8*((45/850)+(60/1530)));
   var out = document.querySelectorAll('div')[0];
+  var out2 = document.querySelectorAll('div')[1];
   out.innerHTML = "Your grade is: " + (newgrade*0.8 + eoc*0.2);
-  out.style.display = 'inline';
+  out2.innerHTML = "You need (for an 89.5): " + need;
+  console.log(exp)
+  if(document.forms["nums"][4].value != ""){
+    out.style.display = 'inline';
+  }
+  out2.style.display = 'inline';
 }
 </script>
