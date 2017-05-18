@@ -1,0 +1,46 @@
+<form id="nums">
+  <br>
+  25% category grade
+  <input type="text" id="25" value="">
+  <br>
+  45% category grade
+  <input type="text" id="45" value="">
+  <br>
+  30% category grade
+  <input type="text" id="30" value="">
+  <br>
+  EOC grade
+  <input type="text" id="EOC" value="">
+  <br>
+  Expected project grade
+  <input type="text" id="exp" value="">
+  <br>
+  <button type="button" onclick="reveal()">
+    Calculate
+  </button>
+  <br>
+  <br>
+  <em>This assumes Mrs. Jackson's 2017 Spring APUSH class</em>
+
+</form>
+
+<br>
+<div style="display:none;">
+  Your grade is:
+</div>
+
+<script>
+function reveal() {
+  var p25 = parseFloat(document.forms["nums"][0].value);
+  var p45 = parseFloat(document.forms["nums"][1].value);
+  var p30 = parseFloat(document.forms["nums"][2].value);
+  var eoc = parseFloat(document.forms["nums"][3].value);
+  var exp = parseFloat(document.forms["nums"][4].value);
+  var new30 = (p30*.01*1330+(2*exp))/(1330+200);
+  var new45 = (p45*.01*750+exp)/(750+100);
+  var newgrade = new30*30 + new45*45 + p25*.25;
+  var out = document.querySelectorAll('div')[0];
+  out.innerHTML = "Your grade is: " + (newgrade*0.8 + eoc*0.2);
+  out.style.display = 'inline';
+}
+</script>
