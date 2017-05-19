@@ -12,7 +12,7 @@
   EOC grade
   <input type="text" id="EOC" value="">
   <br>
-  Expected project grade
+  Expected project grade (optional and deprecated)
   <input type="text" id="exp" value="">
   <br>
   <button type="button" onclick="reveal()">
@@ -30,28 +30,56 @@
 </div>
 <br>
 <div style="display:none;">
-  You need:
+  <p id="needtell">You need:</p>
+  <i>Participation grade:</i><br>
+  <input id="needtellslide" type="range" min="0" max = "100" step="1" value="80" onchange="updateforPart('needtell')">
+  <a id="needtellslidenum"></a>
 </div>
 
 <script>
+function updateval(key){
+  var disp = document.getElementById(key + 'num');
+  disp.innerHTML = "  " + document.getElementById(key).value;
+}
+
+
+
 function reveal() {
   var p25 = parseFloat(document.forms["nums"][0].value);
   var p45 = parseFloat(document.forms["nums"][1].value);
   var p30 = parseFloat(document.forms["nums"][2].value);
   var eoc = parseFloat(document.forms["nums"][3].value);
   var exp = parseFloat(document.forms["nums"][4].value);
+  var out = document.querySelectorAll('div')[0];
+  var out2 = document.querySelectorAll('div')[1];
+  var needtell = document.getElementById('needtell');
   var new30 = (p30*.01*1330+(2*exp))/(1330+200);
   var new45 = (p45*.01*750+exp)/(750+100);
   var newgrade = new30*30 + new45*45 + p25*.25;
-  var need = (89.5 - 0.2*eoc - 0.8*0.25*p25 - (p45*.01*750/850)*0.8*45 - (p30*.01*1330/1530)*0.8*30)/(0.8*((45/850)+(60/1530)));
-  var out = document.querySelectorAll('div')[0];
-  var out2 = document.querySelectorAll('div')[1];
-  out.innerHTML = "Your grade is: " + (newgrade*0.8 + eoc*0.2);
-  out2.innerHTML = "You need (for an 89.5): " + need;
-  console.log(exp)
+  var need = (89.5 - 0.2*eoc - 0.8*0.25*p25 - (p45*.01*750/850)*0.8*45 - (p30*.01*1330/1530)*0.8*30 - 0.8*80*(45/850))/(0.8*(60/1530));
+  out.innerHTML = "Your grade is: " + (newgrade*0.8 + eoc*0.2).toFixed(2);
+  needtell.innerHTML = "You need (for an 89.5 and assuming 80 participation grade): <strong>" + need.toFixed(3) + "</strong>    <i style='font-size=0.75em'>accurate to ~0.1 points ";
+  var gradeneedslide = document.getElementById('needtellslide');
   if(document.forms["nums"][4].value != ""){
     out.style.display = 'inline';
   }
+  gradeneedslide.value = 80;
+  updateval('needtellslide');
   out2.style.display = 'inline';
 }
+
+function updateforPart(key){
+  var p25 = parseFloat(document.forms["nums"][0].value);
+  var p45 = parseFloat(document.forms["nums"][1].value);
+  var p30 = parseFloat(document.forms["nums"][2].value);
+  var eoc = parseFloat(document.forms["nums"][3].value);
+  var exp = parseFloat(document.forms["nums"][4].value);
+  var partGrade = document.getElementById(key+'slide').value;
+  updateval(key+'slide');
+  var newNeed = (89.5 - 0.2*eoc - 0.8*0.25*p25 - (p45*.01*750/850)*0.8*45 - (p30*.01*1330/1530)*0.8*30 - (45/850)*0.8*partGrade)/(0.8*(60/1530));
+  needtell.innerHTML = "You need (for an 89.5 and assuming " + partGrade + " participation grade): <strong>" + newNeed.toFixed(3) + "</strong>";
+
+}
+
+
 </script>
