@@ -77,7 +77,7 @@ function updateforPart(key){
   var partGrade = document.getElementById(key+'slide').value;
   updateval(key+'slide');
   var newNeed = (89.5 - 0.2*eoc - 0.8*0.25*p25 - (p45*.01*750/850)*0.8*45 - (p30*.01*1330/1530)*0.8*30 - (45/850)*0.8*partGrade)/(0.8*(60/1530));
-  needtell.innerHTML = "You need (for an 89.5 and assuming " + partGrade + " participation grade): <strong>" + newNeed.toFixed(3) + "</strong>";
+  needtell.innerHTML = "You need (for an 89.5 and assuming " + partGrade + " participation grade): <strong>" + newNeed.toFixed(3) + "</strong>    <i style='font-size=0.75em'>accurate to ~0.1 points ";
 
 }
 
