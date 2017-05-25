@@ -56,9 +56,9 @@ function reveal() {
   var new30 = (p30*.01*1358+(2*exp))/(1358+200);
   var new45 = (p45*.01*750+exp)/(750+100);
   var newgrade = new30*30 + new45*45 + p25*.25;
-  var need = (89.5 - 0.2*eoc - 0.8*0.25*p25 - (p45*.01*750/850)*0.8*45 - (p30*.01*1358/1558)*0.8*30 - 0.8*80*(45/850))/(0.8*(60/1558));
-  out.innerHTML = "Your grade is: " + (newgrade*0.8 + eoc*0.2).toFixed(3);
-  needtell.innerHTML = "You need (for an 89.5 and assuming 80 participation grade): <strong>" + need.toFixed(2) + "</strong>    <i style='font-size=0.75em'>accurate to ~0.1 points ";
+  var need = (89.5 - 0.2*eoc - 0.8*0.25*p25 - (p45*.01*750/850)*0.8*45 - (p30*.01*1330/1530)*0.8*30 - 0.8*80*(45/850))/(0.8*(60/1530));
+  out.innerHTML = "Your grade is: " + (newgrade*0.8 + eoc*0.2).toFixed(2);
+  needtell.innerHTML = "You need (for an 89.5 and assuming 80 participation grade): <strong>" + need.toFixed(3) + "</strong>    <i style='font-size=0.75em'>accurate to ~0.1 points ";
   var gradeneedslide = document.getElementById('needtellslide');
   if(document.forms["nums"][4].value != ""){
     out.style.display = 'inline';
@@ -76,8 +76,9 @@ function updateforPart(key){
   var exp = parseFloat(document.forms["nums"][4].value);
   var partGrade = document.getElementById(key+'slide').value;
   updateval(key+'slide');
-  var newNeed = (89.5 - 0.2*eoc - 0.8*0.25*p25 - (p45*.01*750/850)*0.8*45 - (p30*.01*1358/1558)*0.8*30 - (45/850)*0.8*partGrade)/(0.8*(60/1558));
-  needtell.innerHTML = "You need (for an 89.5 and assuming " + partGrade + " participation grade): <strong>" + newNeed.toFixed(2) + "</strong>    <i style='font-size=0.75em'>accurate to ~0.1 points ";
+  var newNeed = (89.5 - 0.2*eoc - 0.8*0.25*p25 - (p45*.01*750/850)*0.8*45 - (p30*.01*1330/1530)*0.8*30 - (45/850)*0.8*partGrade)/(0.8*(60/1530));
+  needtell.innerHTML = "You need (for an 89.5 and assuming " + partGrade + " participation grade): <strong>" + newNeed.toFixed(3) + "</strong>    <i style='font-size=0.75em'>accurate to ~0.1 points ";
+
 
 }
 
