@@ -49,7 +49,9 @@ Welcome to the Website of Frank Fierman!
 <div class="img">
 
 <h2 style="font-size: 32px; font-family: Arial; text-align: center;">Upcoming Events</h2>
-<h3 style="font-size: 24px; font-family: Arial; text-align: center;">None</h3>
+<h3 style="font-size: 24px; font-family: Arial; text-align: center;">August 6th: AC Kickoff</h3>
+<h3 style="font-size: 24px; font-family: Arial; text-align: center;">August 13th: Fierman Kickoff</h3>
+
 <!--
 <h3 style="font-size: 18px; font-family: Arial; text-align: center;">Where: Brook Run Park<br>When: 6pm-Dark(8:39pm)</h3> -->
 
