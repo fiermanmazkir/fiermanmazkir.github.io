@@ -104,6 +104,10 @@
   body {
     z-index: 0;
   }
+
+  .mc-closeModal{
+    font-family: Helvetica, sans-serif;
+  }
 </style>
 
 <header>
@@ -126,7 +130,7 @@
     {% else %}
         <a href="/history">History</a>
     {% endif %}
-    
+
     {% if page.cat == "calendar" %}
         <a href="/calendar" class = "active">Calendar</a>
     {% else %}
