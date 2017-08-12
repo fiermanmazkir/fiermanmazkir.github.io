@@ -78,6 +78,6 @@ Welcome to the Website of Frank Fierman!
 <div class="img">
 
 
-<img src="/fiermanks2.jpg" style="max-width:350px;max-height:100%;">
+<img src="/fiermanks2.jpg" style="width:40%;">
 </div>
 </div>
