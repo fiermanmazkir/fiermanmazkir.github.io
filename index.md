@@ -4,13 +4,13 @@ cat: home
 ---
 <style>
 .twitter {
-	margin: 5px 30px 5px 10px;
+	margin: 5px 2.5% 5px 2.5%;
 	border: 2px solid Black;
 	border-radius: 7px;
 	float: right;
 	/*box-shadow: 4px 4px 8px 0 rgba(0, 0, 0, 0.2), 6px 6px 20px 0 rgba(0, 0, 0, 0.19), -6px -6px 20px 0 rgba(0, 0, 0, 0.19), -4px -4px 8px 0 rgba(0, 0, 0, 0.2);*/
-  display: inline
-	width: 50%;
+  display: inline;
+	width: 35%;
 }
 
 .twitter:hover {
@@ -38,14 +38,15 @@ h2 {
 }
 
 div.left {
-	width: 50%;
+	width: 60%;
+	text-align: center;
+	padding-top: 5px;
 }
 
 .upcoming {
 	border: dashed medium DimGray;
-	padding: 0px 50px;
-	position: relative;
-	left: 20px;
+	margin: 0px 5%;
+	width: 90%;
 }
 
 
@@ -63,7 +64,7 @@ Welcome to the Website of Frank Fierman!
 
 <!-- Twitter Timeline -->
 <div class="twitter">
-<a class="twitter-timeline" data-width="400" data-height="750" data-theme="light" href="https://twitter.com/FrankFiermanAZA">Tweets by FrankFiermanAZA</a> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<a class="twitter-timeline" data-width="100%" data-height="750" data-theme="light" href="https://twitter.com/FrankFiermanAZA">Tweets by FrankFiermanAZA</a> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 </div>
 
 <div class="left">
