@@ -10,6 +10,7 @@ cat: home
 	float: right;
 	/*box-shadow: 4px 4px 8px 0 rgba(0, 0, 0, 0.2), 6px 6px 20px 0 rgba(0, 0, 0, 0.19), -6px -6px 20px 0 rgba(0, 0, 0, 0.19), -4px -4px 8px 0 rgba(0, 0, 0, 0.2);*/
   display: inline
+	width: 50%;
 }
 
 .twitter:hover {
@@ -22,12 +23,31 @@ h1.welcome {
   color: red;
 }
 
-img {
-margin: auto;
-display: block;
-float: right
-width: 1%;
+
+h3 {
+	font-size: 24px;
+	font-family: Arial;
+	text-align: center;
 }
+
+h2 {
+	 font-size: 32px;
+	 font-family: Arial;
+	 text-align: center;
+	 text-decoration: underline;
+}
+
+div.left {
+	width: 50%;
+}
+
+.upcoming {
+	border: dashed medium DimGray;
+	padding: 0px 50px;
+	position: relative;
+	left: 20px;
+}
+
 
 /*body {
  background-image: url("/images/FBackgroundSmall.png")*/
@@ -46,13 +66,17 @@ Welcome to the Website of Frank Fierman!
 <a class="twitter-timeline" data-width="400" data-height="750" data-theme="light" href="https://twitter.com/FrankFiermanAZA">Tweets by FrankFiermanAZA</a> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 </div>
 
+<div class="left">
+
+<div class="upcoming">
+<h2>Upcoming Events</h2>
+<h3>August 13th: Fierman Kickoff</h3>
+<h3>August 22nd: Wing Night</h3>
+</div>
+
 <div class="img">
 
-<h2 style="font-size: 32px; font-family: Arial; text-align: center;">Upcoming Events</h2>
-<h3 style="font-size: 24px; font-family: Arial; text-align: center;">August 6th: AC Kickoff</h3>
-<h3 style="font-size: 24px; font-family: Arial; text-align: center;">August 13th: Fierman Kickoff</h3>
 
-<!--
-<h3 style="font-size: 18px; font-family: Arial; text-align: center;">Where: Brook Run Park<br>When: 6pm-Dark(8:39pm)</h3> -->
-
-<img src="/fiermanks2.jpg" style="max-width:350px;max-height:100%;"> </div>
+<img src="/fiermanks2.jpg" style="max-width:350px;max-height:100%;">
+</div>
+</div>
