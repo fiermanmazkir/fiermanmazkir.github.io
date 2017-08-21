@@ -73,15 +73,15 @@ Welcome to the Website of Frank Fierman!
 <h2>Upcoming Events</h2>
 <h2>RUSH WEEK</h2>
 <h3>August 22nd: Wing Night</h3>
-<h3>August 23nd: Fier Factor</h3>
-<h3>August 24nd: Sports</h3>
-<h3>August 25nd: Family Shabbat</h3>
-<h3>August 27nd: Intake</h3>
+<h3>August 23rd: Fier Factor</h3>
+<h3>August 24th: Sports</h3>
+<h3>August 25th: Family Shabbat</h3>
+<h3>August 27th: Intake</h3>
 </div>
- 
+
 <div class="img">
 
 
-<img src="/fiermanks2.jpg" style="width:40%;"> 
-</div> 
+<img src="/fiermanks2.jpg" style="width:40%;">
+</div>
 </div>
