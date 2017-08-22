@@ -1,5 +1,5 @@
 ---
-layout: new
+layout: standard
 cat: signup
 ---
 <div style="text-align: center;">
