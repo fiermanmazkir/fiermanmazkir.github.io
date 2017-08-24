@@ -1,6 +1,7 @@
 ---
 layout: NoBody
 cat: signup
+permalink: /familyshabbat/
 ---
 <body style="background-color:rgb(192,197,200);">
 <div style="text-align:center;">
