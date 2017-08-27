@@ -101,8 +101,11 @@ Welcome to the Website of Frank Fierman!
 <h2 style="text-decoration:none;" class="rush">RUSH WEEK</h2>
 <h3 class="rush">August 27th: Intake</h3>
 </div>
-<h4>September 10: Fierman/Lehavah vs. Avitz/B'yachad</h4>
-<h5 class="council">September 10: Sunday Funday</h5>
+<h4>September 10th: Fierman/Lehavah vs. Avitz/B'yachad</h4>
+<h5 class="council">September 10th: Sunday Funday</h5>
+<h5>September 19th: Wing Night</h5>
+<h5>September 24th: Sports Day with Zelman and Avitz</h5>
+<h5 class="council">September 26th: IC Launch Party</h5>
 <br>
 <p class="events council">Council Events</p>
 </div>
