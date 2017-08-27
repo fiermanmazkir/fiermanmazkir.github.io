@@ -23,6 +23,12 @@ h1.welcome {
   color: red;
 }
 
+h2 {
+	 font-size: 32px;
+	 font-family: Arial;
+	 text-align: center;
+	 text-decoration: underline;
+}
 
 h3 {
 	font-size: 24px;
@@ -30,11 +36,16 @@ h3 {
 	text-align: center;
 }
 
-h2 {
-	 font-size: 32px;
-	 font-family: Arial;
-	 text-align: center;
-	 text-decoration: underline;
+h4 {
+	font-size: 20px;
+	font-family: Arial;
+	text-align: center;
+}
+
+h5 {
+	font-size: 16px;
+	font-family: Arial;
+	text-align: center;
 }
 
 div.left {
@@ -71,12 +82,12 @@ Welcome to the Website of Frank Fierman!
 
 <div class="upcoming">
 <h2>Upcoming Events</h2>
-<h2>RUSH WEEK</h2>
+<h2 style="text-decoration:none;"><i>RUSH WEEK</i></h2>
 <h3>August 22nd: Wing Night</h3>
-<h3>August 23rd: Fier Factor</h3>
-<h3>August 24th: Sports</h3>
-<h3>August 25th: Family Shabbat</h3>
-<h3>August 27th: Intake</h3>
+<h4>August 23rd: Fier Factor</h4>
+<h5>August 24th: Sports</h5>
+<h5>August 25th: Family Shabbat</h5>
+<h5>August 27th: Intake</h5>
 </div>
 
 <div class="img">
