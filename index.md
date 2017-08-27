@@ -23,6 +23,13 @@ h1.welcome {
   color: red;
 }
 
+p.events {
+	text-align: center;
+	font-size: 18px;
+	font-family: Arial, sans-serif;
+	font-style: italic;
+}
+
 h2 {
 	 font-size: 32px;
 	 font-family: Arial;
@@ -31,19 +38,19 @@ h2 {
 }
 
 h3 {
-	font-size: 24px;
+	font-size: 28px;
 	font-family: Arial;
 	text-align: center;
 }
 
 h4 {
-	font-size: 20px;
+	font-size: 24px;
 	font-family: Arial;
 	text-align: center;
 }
 
 h5 {
-	font-size: 16px;
+	font-size: 20px;
 	font-family: Arial;
 	text-align: center;
 }
@@ -58,6 +65,14 @@ div.left {
 	border: dashed medium DimGray;
 	margin: 0px 5%;
 	width: 90%;
+}
+
+.rush {
+	color: White;
+}
+
+.council {
+	color: MediumSeaGreen;
 }
 
 
@@ -82,12 +97,14 @@ Welcome to the Website of Frank Fierman!
 
 <div class="upcoming">
 <h2>Upcoming Events</h2>
-<h2 style="text-decoration:none;"><i>RUSH WEEK</i></h2>
-<h3>August 22nd: Wing Night</h3>
-<h4>August 23rd: Fier Factor</h4>
-<h5>August 24th: Sports</h5>
-<h5>August 25th: Family Shabbat</h5>
-<h5>August 27th: Intake</h5>
+<div style="background-color: CornflowerBlue; width: 75%; margin: auto; border-color: Navy; border-style: solid; border-width: medium;">
+<h2 style="text-decoration:none;" class="rush">RUSH WEEK</h2>
+<h3 class="rush">August 27th: Intake</h3>
+</div>
+<h4>September 10: Fierman/Lehavah vs. Avitz/B'yachad</h4>
+<h5 class="council">September 10: Sunday Funday</h5>
+<br>
+<p class="events council">Council Events</p>
 </div>
 
 <div class="img">
