@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: OLD_page
 title: About
 permalink: /about/
 theme: minima

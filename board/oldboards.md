@@ -1,5 +1,5 @@
 ---
-layout: new
+layout: standard
 title: Our Board
 showtitle: Frank Fierman Executive Board
 #permalink: /board/

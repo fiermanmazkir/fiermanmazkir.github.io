@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: OLD_default
 title: More Email Info
 showtitle: ttt
 permalink: /JCCNews/
