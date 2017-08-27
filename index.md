@@ -19,38 +19,38 @@ box-shadow: 4px 4px 8px 0 rgba(0, 0, 0, 0.2), 6px 6px 20px 0 rgba(0, 0, 0, 0.19)
 
 h1.welcome {
   font-family: Pacifico;
-  font-size: 50px;
+  font-size: 3.125em;
   color: red;
 }
 
 p.events {
 	text-align: center;
-	font-size: 18px;
+	font-size: 1.125em;
 	font-family: Arial, sans-serif;
 	font-style: italic;
 }
 
 h2 {
-	 font-size: 32px;
+	 font-size: 2em;
 	 font-family: Arial;
 	 text-align: center;
 	 text-decoration: underline;
 }
 
 h3 {
-	font-size: 28px;
+	font-size: 1.75em;
 	font-family: Arial;
 	text-align: center;
 }
 
 h4 {
-	font-size: 24px;
+	font-size: 1.5em;
 	font-family: Arial;
 	text-align: center;
 }
 
 h5 {
-	font-size: 20px;
+	font-size: 1.25em;
 	font-family: Arial;
 	text-align: center;
 }
