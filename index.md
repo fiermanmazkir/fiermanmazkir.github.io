@@ -69,7 +69,7 @@ div.left {
 
 .rush {
 	color: White;
-}
+} /*keeping for other event groupings*/
 
 .council {
 	color: MediumSeaGreen;
@@ -97,12 +97,10 @@ Welcome to the Website of Frank Fierman!
 
 <div class="upcoming">
 <h2>Upcoming Events</h2>
-<div style="background-color: CornflowerBlue; width: 75%; margin: auto; border-color: Navy; border-style: solid; border-width: medium;">
-<h2 style="text-decoration:none;" class="rush">RUSH WEEK</h2>
-<h3 class="rush">August 27th: Intake</h3>
-</div>
-<h4>September 10th: Fierman/Lehavah vs. Avitz/B'yachad</h4>
-<h5 class="council">September 10th: Sunday Funday</h5>
+<!--div style="background-color: CornflowerBlue; width: 75%; margin: auto; border-color: Navy; border-style: solid; border-width: medium;"></div>-->
+
+<h3>September 10th: Fierman/Lehavah vs. Avitz/B'yachad</h3>
+<h4 class="council">September 10th: Sunday Funday</h4>
 <h5>September 19th: Wing Night</h5>
 <h5>September 24th: Sports Day with Zelman and Avitz</h5>
 <h5 class="council">September 26th: IC Launch Party</h5>
