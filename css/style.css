@@ -46,7 +46,7 @@ li:last-child {
 	padding-right: 10px;
 }
 
-.nav a:link, a:visited {
+.nav a:link, .nav a:visited {
     color: White;
     padding: 17px 16px;
     text-align: center;
@@ -57,7 +57,7 @@ li:last-child {
 
 }
 
-.nav a:hover, a:active {
+.nav a:hover, .nav a:active {
     background-color: Black;
 	  color: White;
 }
