@@ -128,7 +128,6 @@ September 26th: IC Launch Party</a></h5>
 October 20th-22nd: New Member Convention</a></h5>
 <h5><a class="convention event-link" href="https://www.atlantajcc.org/index.php?src=forms&ref=TN-BBYO-ConventionRegistration-2017-18">
 November 10th-12th: Southern Region Convention</a></h5>
-<br>
 <p class="events council">Council Events</p>
 <p class="events convention">(Conventions)</p>
 </div>
