@@ -121,10 +121,8 @@ Welcome to the Website of Frank Fierman!
 <!--div style="background-color: CornflowerBlue; width: 75%; margin: auto; border-color: Navy; border-style: solid; border-width: medium;"></div>-->
 
 
-<h3><a class="council event-link" href="http://www.atlantajcc.org/pldb-live/international-convention-launch-party-37178/">
-September 26th: IC Launch Party</a></h3>
-<h4>October 1st: Program with Lehavah</h4>
-<h5>October 7th: Halloween Party with Hazakah</h5>
+<h3>October 1st: Cupcake Wars with Lehavah</h3>
+<h4>October 7th: Halloween Party with Hazakah</h4>
 <h5>October 17th: Wing Night</h5>
 <h5><a class="convention event-link" href="https://www.atlantajcc.org/index.php?src=forms&ref=TN-BBYO-ConventionRegistration-2017-18">
 October 20th-22nd: New Member Convention</a></h5>
