@@ -121,11 +121,10 @@ Welcome to the Website of Frank Fierman!
 <!--div style="background-color: CornflowerBlue; width: 75%; margin: auto; border-color: Navy; border-style: solid; border-width: medium;"></div>-->
 
 
-<h3>October 1st: Cupcake Wars with Lehavah</h3>
-<h4>October 7th: Halloween Party with Hazakah</h4>
-<h5>October 17th: Wing Night</h5>
-<h5><a class="convention event-link" href="https://www.atlantajcc.org/index.php?src=forms&ref=TN-BBYO-ConventionRegistration-2017-18">
-October 20th-22nd: New Member Convention</a></h5>
+
+<h3>October 24th: Wing Night</h3>
+<h4><a class="convention event-link" href="https://www.atlantajcc.org/index.php?src=forms&ref=TN-BBYO-ConventionRegistration-2017-18">
+October 20th-22nd: New Member Convention</a></h4>
 <h5><a class="convention event-link" href="https://www.atlantajcc.org/index.php?src=forms&ref=TN-BBYO-ConventionRegistration-2017-18">
 November 10th-12th: Southern Region Convention</a></h5>
 <p class="events council">Council Events</p>
