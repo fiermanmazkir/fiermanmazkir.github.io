@@ -122,9 +122,10 @@ Welcome to the Website of Frank Fierman!
 
 
 
-<h3>October 24th: Wing Night</h3>
-<h4><a class="convention event-link" href="https://www.atlantajcc.org/index.php?src=forms&ref=TN-BBYO-ConventionRegistration-2017-18">
-October 20th-22nd: New Member Convention</a></h4>
+
+<h3><a class="convention event-link" href="https://www.atlantajcc.org/index.php?src=forms&ref=TN-BBYO-ConventionRegistration-2017-18">
+October 20th-22nd: New Member Convention</a></h3>
+<h4>October 24th: Wing Night</h4>
 <h5>October 27th: Shabbat with B'yachad</h5>
 <h5>October 4th and 5th: SRC Prep (sleepover)</h5>
 <h5><a class="convention event-link" href="https://www.atlantajcc.org/index.php?src=forms&ref=TN-BBYO-ConventionRegistration-2017-18">
