@@ -136,7 +136,6 @@ body {background-image: url("/images/FBackgroundSmall.png")
          <h1 class="board">Adam Arno</h1>
 	 <h2 class="board">Mekasher</h2>
 	 <p class="board">ffiermanmekasher@gmail.com<br>
-	 678.591.6718
 	 </p>
 	 </div>
 	 
