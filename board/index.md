@@ -128,7 +128,6 @@ body {background-image: url("/images/FBackgroundSmall.png")
          <h1 class="board">Jake Goodelman</h1>
 	 <h2 class="board">Gizbor</h2>
 	 <p class="board">ffiermangizbor@gmail.com<br>
-	 678.591.6718
 	 </p>
 	 </div>
 	 
