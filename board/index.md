@@ -87,7 +87,7 @@ body {background-image: url("/images/FBackgroundSmall.png")
 </div>
 
 <div class="board">
-<h1 class="board">Joey Morris</h1>
+<h1 class="board">Howie Lips/h1>
 	 <h2 class="board">S'gan</h2>
 	 <p class="board">sgana@frankfierman.com<br>
 	 </p>
@@ -125,15 +125,23 @@ body {background-image: url("/images/FBackgroundSmall.png")
 	 </div>
 
 <div class="board">
-         <h1 class="board">Sam Brothman</h1>
+         <h1 class="board">Jake Goodelman</h1>
 	 <h2 class="board">Gizbor</h2>
 	 <p class="board">ffiermangizbor@gmail.com<br>
 	 678.591.6718
 	 </p>
 	 </div>
-
+	 
+<div class="board">
+         <h1 class="board">Adam Arno/h1>
+	 <h2 class="board">Mekasher</h2>
+	 <p class="board">ffiermanmekasher@gmail.com<br>
+	 678.591.6718
+	 </p>
+	 </div>
+	 
 <div class="board" id="bottom">
-         <h1 class="board">Seth May</h1>
+         <h1 class="board">IJ Lowensteoin/h1>
 	 <h2 class="board">Sopher</h2>
 	 <p class="board">fiermansophera@gmail.com<br>
 	 </p>
