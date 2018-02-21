@@ -122,7 +122,7 @@ Welcome to the Website of Frank Fierman!
 
 
 
-<h3><a class="event-link" href="/signups/bronight">
+<h3 style="color:"Black;"><a class="event-link" href="/signup/bronight">
 March 3rd-4th: Bro Night Sleepover with Zelman</a></h3>
 <!--<h4>October 24th: Wing Night</h4>
 <h5>October 27th: Shabbat with B'yachad</h5>
