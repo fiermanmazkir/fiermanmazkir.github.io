@@ -123,13 +123,13 @@ Welcome to the Website of Frank Fierman!
 
 
 
-<h3><a class="convention event-link" href="https://www.atlantajcc.org/index.php?src=forms&ref=TN-BBYO-ConventionRegistration-2017-18">
-October 20th-22nd: New Member Convention</a></h3>
-<h4>October 24th: Wing Night</h4>
+<h3><a href="/signups/bronight">
+March 3rd-4th: Bro Night Sleepover with Zelman</a></h3>
+<!--<h4>October 24th: Wing Night</h4>
 <h5>October 27th: Shabbat with B'yachad</h5>
 <h5>October 4th and 5th: SRC Prep (sleepover)</h5>
 <h5><a class="convention event-link" href="https://www.atlantajcc.org/index.php?src=forms&ref=TN-BBYO-ConventionRegistration-2017-18">
-November 10th-12th: Southern Region Convention</a></h5>
+November 10th-12th: Southern Region Convention</a></h5> -->
 <p class="events council">Council Events</p>
 <p class="events convention">(Conventions)</p>
 </div>
