@@ -1,0 +1,157 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <link href="https://fonts.googleapis.com/css?family=Lobster" rel="stylesheet">
+    <style>
+    h1 {
+      margin: auto;
+      text-align: center;
+      padding: 200px 0;
+    }
+
+    input {
+      width: 0px;
+      visibility: hidden;;
+    }
+
+    label:hover, input:checked + label {
+      font-weight: bold;
+    }
+
+    th {
+      font-weight: normal;
+      font-style: italic;
+    }
+
+    tr {
+      text-align: center;
+      font-size: 1em;
+    }
+
+    td {
+      width: 33%;
+    }
+
+    </style>
+  </head>
+
+<body style="background-color: DarkSeaGreen; color: Black">
+  <h1 id="clock", style="font-family: 'Courier New', monospace; font-size: 4em;">hi</h1>
+  <table style="width:100%; padding-top: 0px;">
+    <tr>
+      <th>Font Preference</th>
+      <th>Text Color</th>
+      <th>Background Color</th>
+    </tr>
+    <tr>
+      <td>
+        <form id="fonts">
+
+          <input type="radio" name="font" value="Lobster, 'Comic Sans'" id="lobFont">
+          <label for="lobFont" style="font-family: Lobster, 'Comic Sans'; font-size: 2em;">Lobster</label><br>
+          <input type="radio" name="font" value="Arial, 'sans serif'" id="sansFont">
+          <label for="sansFont" style="font-family: Arial, 'sans serif'; font-size: 2em;">Arial</label><br>
+          <input type="radio" name="font" value="'Times New Roman', serif" id="serifFont">
+          <label for="serifFont" style="font-family: 'Times New Roman', serif; font-size: 2em;">Times New Roman</label><br>
+          <br>
+          <button type="button" onclick="updateFont()" style="height: 2.5em; width: 6em">
+            Update
+          </button>
+          <br>
+        </form>
+      </td>
+      <td>
+        <form id="fontColors">
+          <input type="radio" name="fColor" value="Black" id="Black-fColor">
+          <label for="Black-fColor" style="color: Black; font-size: 2em;">Black</label><br>
+          <input type="radio" name="fColor" value="DarkBlue" id="DarkBlue-fColor">
+          <label for="DarkBlue-fColor" style="color: DarkBlue; font-size: 2em;">Dark Blue</label><br>
+          <input type="radio" name="fColor" value="LightSlateGrey" id="LightSlateGrey-fColor">
+          <label for="LightSlateGrey-fColor" style="color: LightSlateGrey; font-size: 2em;">Light Slate Grey</label><br>
+          <br>
+          <button type="button" onclick="updateFontColor()" style="height: 2.5em; width: 6em">
+            Update
+          </button>
+      </form>
+      </td>
+      <td>
+        <form id="backColors">
+          <input type="radio" name="fColor" value="White" id="White-bColor">
+          <label for="White-bColor" style="color: White; font-size: 2em; padding: 0 0.5em;">White</label><br>
+          <input type="radio" name="fColor" value="Moccasin" id="Moccasin-bColor">
+          <label for="Moccasin-bColor" style="color: Moccasin; font-size: 2em; padding: 0 0.5em;">Moccasin</label><br>
+          <input type="radio" name="fColor" value="DarkSeaGreen" id="DarkSeaGreen-bColor">
+          <label for="DarkSeaGreen-bColor" style="color: DarkSeaGreen; font-size: 2em; padding: 0 0.5em;">Dark Sea Green</label><br>
+          <br>
+          <button type="button" onclick="updateBackgroundColor()" style="height: 2.5em; width: 6em">
+            Update
+          </button>
+      </form>
+      </td>
+    </tr>
+  </table>
+
+</body>
+
+<script>
+  function showClock() {
+    var d = new Date();
+    var hrs = d.getHours();
+    var mins = d.getMinutes();
+    var secs = d.getSeconds();
+    var suffix = "AM";
+
+    if(hrs > 11){
+      suffix = "PM";
+    }
+
+    if(hrs == 0){
+      hrs = 12;
+    }
+
+    if(hrs > 12){
+      hrs = hrs - 12;
+    }
+    if(mins < 10)
+      mins = "0" + mins;
+    if(secs < 10)
+      secs = "0" + secs;
+
+    document.getElementById("clock").innerHTML = hrs + ":" + mins + ":" + secs + " " + suffix;
+  }
+
+  function updateFont() {
+    var clock = document.getElementById('clock');
+    var radioFont = document.forms["fonts"];
+    for(var i = 0; i < radioFont.length; i++){
+      if(radioFont[i].checked)
+        clock.style.fontFamily = radioFont[i].value;
+    }
+  }
+
+  function updateFontColor() {
+    var clock = document.getElementById('clock');
+    var radioFontColor = document.forms["fontColors"];
+    for(var i = 0; i < radioFontColor.length; i++){
+      if(radioFontColor[i].checked)
+        clock.style.color = radioFontColor[i].value;
+    }
+  }
+
+  function updateBackgroundColor() {
+    var clock = document.getElementsByTagName('body')[0];
+    var radioBGColor = document.forms["backColors"];
+    for(var i = 0; i < radioBGColor.length; i++){
+      if(radioBGColor[i].checked)
+        clock.style.backgroundColor = radioBGColor[i].value;
+    }
+  }
+
+
+
+  showClock();
+
+  setInterval(showClock,1000);
+</script>
+
+</html>
