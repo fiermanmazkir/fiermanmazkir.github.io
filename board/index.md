@@ -80,14 +80,14 @@ body {background-image: url("/images/FBackgroundSmall.png")
 
 
 <div class="board" id="top">
-<a href="bios/JackWarshal" class="board">
-<h1 class="board">Jack Warshal</h1>
+<a href="bios/CadenSime" class="board">
+<h1 class="board">Caden Sime</h1>
 <h2 class="board">Godol</h2>
-<p class="board">godol@frankfierman.com<br>404.996.8004</p></a>
+<p class="board">godol@frankfierman.com</p></a>
 </div>
 
 <div class="board">
-<h1 class="board">Howie Lips</h1>
+<h1 class="board">Jack Warshal</h1>
 	 <h2 class="board">S'gan</h2>
 	 <p class="board">sgana@frankfierman.com<br>
 	 </p>
@@ -96,24 +96,21 @@ body {background-image: url("/images/FBackgroundSmall.png")
 <div class="board"> <a class="board" href="/board/bios/DylanFrohman">
          <h1 class="board">Dylan Frohman</h1>
 	 <h2 class="board">S'gan</h2>
-	 <p class="board">sganb@frankfierman.com<br>
-	 770.851.7648
+	 <p class="board">sganb@frankfierman.com
 	 </p></a>
 	 </div>
 
-<div class="board"> <a class="board" href="/board/bios/CadenSime">
-         <h1 class="board">Caden Sime</h1>
+<div class="board"> <a class="board" href="/board/bios/FirstLast">
+         <h1 class="board">IJ Lowenstein</h1>
 	 <h2 class="board">Moreh</h2>
-	 <p class="board">moreh@frankfierman.com<br>
-	 770.314.6164
+	 <p class="board">moreh@frankfierman.com
 	 </p></a>
 	 </div>
 
 <div class="board">
          <h1 class="board">Brandon Sherman</h1>
 	 <h2 class="board">Mazkir</h2>
-	 <p class="board">mazkir@frankfierman.com<br>
-	 770.371.6710
+	 <p class="board">mazkir@frankfierman.com
 	 </p>
 	 </div>
 
@@ -131,15 +128,15 @@ body {background-image: url("/images/FBackgroundSmall.png")
 	 </p>
 	 </div>
 	 
-<div class="board">
+<!-- <div class="board">
          <h1 class="board">Adam Arno</h1>
 	 <h2 class="board">Mekasher</h2>
 	 <p class="board">ffiermanmekasher@gmail.com<br>
 	 </p>
-	 </div>
+	 </div> -->
 	 
 <div class="board" id="bottom">
-         <h1 class="board">IJ Lowensteoin</h1>
+         <h1 class="board">Howie Lips/h1>
 	 <h2 class="board">Sopher</h2>
 	 <p class="board">fiermansophera@gmail.com<br>
 	 </p>
