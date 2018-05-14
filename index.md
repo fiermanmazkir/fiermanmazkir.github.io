@@ -111,28 +111,28 @@ Welcome to the Website of Frank Fierman!
 
 <div class="left">
 
-<div class="upcoming">
-<!--<div style="background-color:OrangeRed; width: 75%; margin: auto; border-style: solid; border-color: Maroon; border-width: medium; margin-top: 1em;">
+<!-- <div class="upcoming">
+<div style="background-color:OrangeRed; width: 75%; margin: auto; border-style: solid; border-color: Maroon; border-width: medium; margin-top: 1em;">
 <p style="color: White; font-weight: bold; font-style: italic; text-transform: uppercase; font-size: 1.2em; margin-top: 1em;">Fierman won AZA Program of the Month for Sports Day</p>
 <p style="color: cornsilk; font-style: italic; font-weight: lighter;">That's the second month in a row</p>
-</div>-->
+</div>
 <h2>Upcoming Events</h2>
-<!--div style="background-color: CornflowerBlue; width: 75%; margin: auto; border-color: Navy; border-style: solid; border-width: medium;"></div>-->
+<div style="background-color: CornflowerBlue; width: 75%; margin: auto; border-color: Navy; border-style: solid; border-width: medium;"></div> -->
 
 
 
 
-<h3 style="color:Black;"><a class="event-link" href="/signup/bronight">
+<!-- <h3 style="color:Black;"><a class="event-link" href="/signup/bronight">
 March 3rd-4th: Bro Night Sleepover with Zelman</a></h3>
-<!--<h4>October 24th: Wing Night</h4>
+<h4>October 24th: Wing Night</h4>
 <h5>October 27th: Shabbat with B'yachad</h5>
-<h5>October 4th and 5th: SRC Prep (sleepover)</h5>
+<h5>October 4th and 5th: SRC Prep (sleepover)</h5> 
 <h5><a class="convention event-link" href="https://www.atlantajcc.org/index.php?src=forms&ref=TN-BBYO-ConventionRegistration-2017-18">
 November 10th-12th: Southern Region Convention</a></h5>
 <p class="events council">Council Events</p>
-<p class="events convention">(Conventions)</p> -->
+<p class="events convention">(Conventions)</p> 
 <p style="font-size:1em; font-style:italic;">Some events can be clicked on for Registration/RSVP</p>
-</div>
+</div> -->
 
 <div class="img">
 
