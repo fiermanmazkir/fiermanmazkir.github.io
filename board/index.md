@@ -136,10 +136,9 @@ body {background-image: url("/images/FBackgroundSmall.png")
 	 </div> -->
 	 
 <div class="board" id="bottom">
-         <h1 class="board">Howie Lips/h1>
+         <h1 class="board">Howie Lips</h1>
 	 <h2 class="board">Sopher</h2>
-	 <p class="board">fiermansophera@gmail.com<br>
-	 </p>
+	 <p class="board">fiermansophera@gmail.com</p>
 	 </div>
 
 <div id="space"> </div>
