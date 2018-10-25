@@ -123,8 +123,8 @@ Welcome to the Website of Frank Fierman!
 
 
 
- <h3 style="color:Black;"><a class="event-link" href="http://bbyo.org/azabbg/membership/">
-www.bbyo.org/azabbg/membership/</a></h3>
+ <h3 style="color:Black;"><a class="event-link" href="https://bbyo.org/become-a-member">
+https://bbyo.org/become-a-member/</a></h3>
 <!--<h3 style="color:Black;"><a class="event-link" href="/signup/bronight">
 March 3rd-4th: Bro Night Sleepover with Zelman</a></h3>
 <h4>October 24th: Wing Night</h4>
